@@ -1,0 +1,104 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 31
+Number of records retrieved in searches: 98
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 27
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 2
+	Date: 2014-05-05 ; Times: 2
+	Date: 2014-05-10 ; Times: 2
+	Date: 2014-05-12 ; Times: 1
+	Date: 2014-05-13 ; Times: 4
+	Date: 2014-05-15 ; Times: 1
+	Date: 2014-05-21 ; Times: 11
+	Date: 2014-05-22 ; Times: 1
+	Date: 2014-05-23 ; Times: 2
+	Date: 2014-05-25 ; Times: 3
+	Date: 2014-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: ""bison bison"" ; Times: 2
+	Query: "Mustela nigripes" ; Times: 2
+	Query: "Dicrostonyx unalascensis" ; Times: 1
+	Query: "vespertilionidae stateprovince:"Nebraska"" ; Times: 1
+	Query: "Myodes rex" ; Times: 1
+	Query: "mule deer mappable:1" ; Times: 1
+	Query: "reithrodontomys megalotis arkansas" ; Times: 2
+	Query: "myotis stateprovince:"Nebraska"" ; Times: 1
+	Query: "Cynomys gunnisoni Cynomys gunnisoni type:specimen year <= 1930" ; Times: 1
+	Query: "Podomys floridanus" ; Times: 1
+	Query: "felis chaus" ; Times: 3
+	Query: "Lepus alleni records" ; Times: 4
+	Query: "Lepus alleni" ; Times: 1
+	Query: "pecari tajacu" ; Times: 2
+	Query: "Spermophilus canus" ; Times: 1
+	Query: "genus:Tarsius" ; Times: 2
+	Query: "arkansas reithrodontomys megalotis" ; Times: 2
+	Query: "stateprovince:"Wyoming" genus:Ochotona" ; Times: 1
+	Query: "Odocoileus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1679 download events in this period)
+Total number of records downloaded: 483 (out of 895475 records downloaded for all resources in this period)
+Total number of unique records downloaded: 438
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-02 ; Times: 2
+	Date: 2014-05-05 ; Times: 1
+	Date: 2014-05-17 ; Times: 1
+	Date: 2014-05-22 ; Times: 3
+	Date: 2014-05-23 ; Times: 1
+	Date: 2014-05-25 ; Times: 3
+	Date: 2014-05-27 ; Times: 1
+	Date: 2014-05-29 ; Times: 2
+	Date: 2014-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "zalophus" ; Times: 1
+	Query: "puma concolor type:specimen" ; Times: 1
+	Query: "Artiodactyla" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "Tamias type:specimen AND (NOT striatus NOT sibiricus) year >= 1800 year <= 2005" ; Times: 1
+	Query: "type:specimen county:"Clark" stateprovince:"Nevada" class:mammalia" ; Times: 1
+	Query: "felis chaus" ; Times: 3
+	Query: "tadarida" ; Times: 1
+	Query: "stateprovince:"Wyoming" genus:Ochotona" ; Times: 3
+	Query: "ursus" ; Times: 1
+	Query: "Cynomys gunnisoni Cynomys gunnisoni type:specimen year <= 1930" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 61
+Total number of records retrieved from searches: 258
+Number of download events that retrieved data from the resource: 145
+Total number of records downloaded: 7546
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 61
+Total number of records retrieved from searches: 258
+Number of download events that retrieved data from the resource: 209
+Total number of records downloaded: 11623
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
