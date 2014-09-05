@@ -1,0 +1,117 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 32
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-06 ; Times: 1
+	Date: 2014-08-07 ; Times: 2
+	Date: 2014-08-21 ; Times: 3
+	Date: 2014-08-22 ; Times: 1
+	Date: 2014-08-25 ; Times: 1
+	Date: 2014-08-26 ; Times: 3
+	Date: 2014-08-27 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "mustela nigripes" ; Times: 1
+	Query: "type:specimen county:"humboldt" stateprovince:"california" genus:aplodontia AND (NOT HSU)" ; Times: 1
+	Query: "Mustela nigripes type:specimen" ; Times: 2
+	Query: "vulpes colorado" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 1
+	Query: "type:specimen county:"humboldt" stateprovince:"california" genus:aplodontia" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "county:"Travis" stateprovince:"Texas" year >= 1950 year <= 1955" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 3
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 273 download events in this period)
+Total number of records downloaded: 2143 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2127
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Germany ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 22
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-05 ; Times: 2
+	Date: 2014-08-06 ; Times: 1
+	Date: 2014-08-13 ; Times: 1
+	Date: 2014-08-14 ; Times: 1
+	Date: 2014-08-16 ; Times: 1
+	Date: 2014-08-17 ; Times: 2
+	Date: 2014-08-18 ; Times: 2
+	Date: 2014-08-19 ; Times: 1
+	Date: 2014-08-22 ; Times: 5
+	Date: 2014-08-25 ; Times: 1
+	Date: 2014-08-26 ; Times: 7
+	Date: 2014-08-27 ; Times: 2
+	Date: 2014-08-28 ; Times: 4
+	Date: 2014-08-29 ; Times: 1
+	Date: 2014-08-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "neotoma fuscipes" ; Times: 2
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Ammospermophilus nelsoni" ; Times: 2
+	Query: "Peromyscus boylii" ; Times: 1
+	Query: "sorex hoyi type:specimen" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 1
+	Query: "Mustela nivalis type:specimen" ; Times: 1
+	Query: "Martes americana type:specimen" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "urocitellus" ; Times: 1
+	Query: "Mephitis mephitis type:specimen" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Ochotona princeps country:"United States" year >= 1971 year <= 2014 mappable:1" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "cryptotis parva type:specimen" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 2
+	Query: "type:specimen stateprovince:"Virginia" class:Mammalia" ; Times: 1
+	Query: ""Urocitellus parryii" OR "Spermophilus parryii"" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "scalopus aquaticus type:specimen" ; Times: 1
+	Query: "gulo gulo type:specimen" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "eptesicus" ; Times: 1
+	Query: "Herpestidae type:specimen" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "county:"Travis" stateprovince:"Texas" year >= 1950 year <= 1955" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 92
+Total number of records retrieved from searches: 373
+Number of download events that retrieved data from the resource: 217
+Total number of records downloaded: 12484
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 92
+Total number of records retrieved from searches: 373
+Number of download events that retrieved data from the resource: 281
+Total number of records downloaded: 16561
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
