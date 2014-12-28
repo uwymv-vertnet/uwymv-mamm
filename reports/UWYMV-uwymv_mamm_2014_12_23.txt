@@ -1,0 +1,77 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for November, 2014, generated on 2014/12/23
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 308
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-05 ; Times: 1
+	Date: 2014-11-06 ; Times: 1
+	Date: 2014-11-24 ; Times: 1
+	Date: 2014-11-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Taxidea taxus distance(location,geopoint(46.67959446564022,-91.669921875))<567178" ; Times: 1
+	Query: "sciurus niger stateprovince:"Nebraska" mappable:1" ; Times: 1
+	Query: "hawk mountain" ; Times: 4
+	Query: "class:Mammalia taxidea taxus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 178 download events in this period)
+Total number of records downloaded: 195 (out of 878465 records downloaded for all resources in this period)
+Total number of unique records downloaded: 188
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-01 ; Times: 1
+	Date: 2014-11-05 ; Times: 1
+	Date: 2014-11-06 ; Times: 2
+	Date: 2014-11-11 ; Times: 1
+	Date: 2014-11-12 ; Times: 3
+	Date: 2014-11-24 ; Times: 1
+	Date: 2014-11-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Taxidea taxus distance(location,geopoint(46.67959446564022,-91.669921875))<567178" ; Times: 1
+	Query: "type:specimen specificepithet:parva genus:Cryptotis year <= 2014" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis" ; Times: 1
+	Query: "glaucomys sabrinus" ; Times: 1
+	Query: "county:"Dona Ana" stateprovince:"New Mexico" class:Mammalia year >= 1700 year <= 2014" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "stateprovince:"Utah" class:mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "stateprovince:"Alabama" class:mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "Didelphis virginiana type:specimen mappable:1" ; Times: 1
+	Query: "type:specimen county:"Riverside" stateprovince:"California" class:Mammalia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 127
+Total number of records retrieved from searches: 802
+Number of download events that retrieved data from the resource: 270
+Total number of records downloaded: 17128
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 127
+Total number of records retrieved from searches: 802
+Number of download events that retrieved data from the resource: 334
+Total number of records downloaded: 21205
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
