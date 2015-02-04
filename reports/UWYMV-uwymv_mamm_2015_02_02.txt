@@ -1,0 +1,136 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 420
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 3
+	Country: United States ; Times: 20
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-04 ; Times: 1
+	Date: 2015-01-05 ; Times: 4
+	Date: 2015-01-06 ; Times: 1
+	Date: 2015-01-09 ; Times: 2
+	Date: 2015-01-12 ; Times: 4
+	Date: 2015-01-15 ; Times: 3
+	Date: 2015-01-16 ; Times: 3
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-20 ; Times: 1
+	Date: 2015-01-22 ; Times: 1
+	Date: 2015-01-23 ; Times: 1
+	Date: 2015-01-28 ; Times: 3
+	Date: 2015-01-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia (Millard Utah) year >= 1929 year <= 1941" ; Times: 2
+	Query: "myotis yumanensis wyoming myotis yumanensis (specimen)" ; Times: 3
+	Query: "Aplodontia rufa stateprovince:"California"" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Nebraska"" ; Times: 2
+	Query: "E. dorsatum mappable:1" ; Times: 1
+	Query: "specificepithet:collaris genus:Ochotona year <= 1970" ; Times: 1
+	Query: "ammospermophilus nelsoni" ; Times: 1
+	Query: "rodentia county:"Millard" stateprovince:"Utah" year >= 1920 year <= 1980" ; Times: 2
+	Query: ""uwymv/uwymv-mammal-collection-arctos"" ; Times: 3
+	Query: "county:"garfield" stateprovince:"nebraska"" ; Times: 1
+	Query: "stateprovince:"Minnesota" class:Mammalia institutioncode:UWYMV" ; Times: 1
+	Query: "Snake Creek class:Mammalia year >= 1929 year <= 1969" ; Times: 1
+	Query: ""tarsius syrichta" mappable:1" ; Times: 1
+	Query: "microdipodops megacephalus stateprovince:"Utah" year >= 1920 year <= 1980" ; Times: 2
+	Query: "antilocapra americana" ; Times: 1
+	Query: "sciurus aberti wyoming" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "Erethizon dorsatum mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 445 download events in this period)
+Total number of records downloaded: 1686 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1516
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-03 ; Times: 5
+	Date: 2015-01-04 ; Times: 10
+	Date: 2015-01-05 ; Times: 1
+	Date: 2015-01-06 ; Times: 4
+	Date: 2015-01-07 ; Times: 1
+	Date: 2015-01-08 ; Times: 1
+	Date: 2015-01-09 ; Times: 2
+	Date: 2015-01-12 ; Times: 1
+	Date: 2015-01-15 ; Times: 1
+	Date: 2015-01-18 ; Times: 1
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-21 ; Times: 1
+	Date: 2015-01-22 ; Times: 1
+	Date: 2015-01-27 ; Times: 3
+	Date: 2015-01-28 ; Times: 2
+	Date: 2015-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Myodes rutilus" ; Times: 1
+	Query: "peromyscus (mexico)" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: ""Microtus pennsylvanicus"" ; Times: 2
+	Query: ""ochotona princeps"" ; Times: 1
+	Query: "stateprovince:"Minnesota" class:Mammalia" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "country:"Mexico" class:Mammalia year <= 2014" ; Times: 1
+	Query: "canidae skull" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 2
+	Query: "Mustela frenata" ; Times: 1
+	Query: "stateprovince:"Kentucky" class:mammalia" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 1
+	Query: "lepus californicus" ; Times: 1
+	Query: "Sylvilagus audubonii" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Ammospermophilus nelsoni county:"Kern" year >= 1900 year <= 2015" ; Times: 1
+	Query: ""Microtus pennsylvanicus" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Snake Creek class:Mammalia year >= 1929 year <= 1969" ; Times: 1
+	Query: "county:"Millard" stateprovince:"Utah" class:Mammalia year >= 1928 year <= 1939" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "type:specimen specificepithet:caligata genus:Marmota" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Sciurus" ; Times: 1
+	Query: "myotis myotis" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "mus musculus" ; Times: 1
+	Query: "Carnivora america" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 141
+Total number of records retrieved from searches: 855
+Number of download events that retrieved data from the resource: 37
+Total number of records downloaded: 1686
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 167
+Total number of records retrieved from searches: 1275
+Number of download events that retrieved data from the resource: 394
+Total number of records downloaded: 30152
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
