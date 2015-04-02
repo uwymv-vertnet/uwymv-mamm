@@ -1,0 +1,103 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 82
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-02 ; Times: 2
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-06 ; Times: 2
+	Date: 2015-03-09 ; Times: 3
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-11 ; Times: 1
+	Date: 2015-03-15 ; Times: 4
+	Date: 2015-03-23 ; Times: 1
+	Date: 2015-03-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Euderma Montana" ; Times: 1
+	Query: "stateprovince:"IOWA" specificepithet:aquaticus genus:Scalopus" ; Times: 1
+	Query: "mustela nigripes" ; Times: 3
+	Query: "mountain beaver" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Nebraska"" ; Times: 2
+	Query: "Scalopus aquaticus stateprovince:"Ohio"" ; Times: 1
+	Query: "Wyoming Odocoileus hemionus" ; Times: 1
+	Query: "Wyoming Cervus elaphus" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Wyoming"" ; Times: 2
+	Query: "Mustela nigripes mappable:1" ; Times: 1
+	Query: "country:"united states" specificepithet:europaeus genus:Lepus" ; Times: 1
+	Query: "vulpes velox" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 298 download events in this period)
+Total number of records downloaded: 717 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 696
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-06 ; Times: 2
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-15 ; Times: 1
+	Date: 2015-03-16 ; Times: 5
+	Date: 2015-03-19 ; Times: 2
+	Date: 2015-03-20 ; Times: 2
+	Date: 2015-03-23 ; Times: 1
+	Date: 2015-03-24 ; Times: 3
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Ohio"" ; Times: 1
+	Query: "type:specimen specificepithet:ruficaudus genus:Tamias" ; Times: 1
+	Query: "Phocidae" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "Otariidae" ; Times: 1
+	Query: "Wyoming Cervus elaphus" ; Times: 1
+	Query: "class:Mammalia ochotona princeps" ; Times: 1
+	Query: "Corynorhinus townsendii pallescens" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "mammalia country:"mexico" year <= 2015 mappable:1" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 2
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Peromyscus maniculatus AND (NOT Mexico) year >= 1950 year <= 2000 mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 164
+Total number of records retrieved from searches: 946
+Number of download events that retrieved data from the resource: 68
+Total number of records downloaded: 2498
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 190
+Total number of records retrieved from searches: 1366
+Number of download events that retrieved data from the resource: 425
+Total number of records downloaded: 30964
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
