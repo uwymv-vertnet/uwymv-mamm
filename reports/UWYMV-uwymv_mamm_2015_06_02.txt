@@ -1,0 +1,137 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 217
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Micronesia ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 18
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 4
+	Date: 2015-05-06 ; Times: 1
+	Date: 2015-05-09 ; Times: 1
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-14 ; Times: 2
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-16 ; Times: 6
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-20 ; Times: 2
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan)" ; Times: 1
+	Query: "stateprovince:"wyoming" specificepithet:leucurus genus:cynomys" ; Times: 2
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota)" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Nebraska"" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada)" ; Times: 1
+	Query: "cavia" ; Times: 1
+	Query: "Bison bison "Bison bison" type:specimen specificepithet:Bison genus:Bison (Mandible) AND (NOT priscus)" ; Times: 2
+	Query: "stateprovince:"wyoming" specificepithet:ludovicianus genus:cynomys" ; Times: 2
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan NOT Colorado NOT "South Dakota" NOT Montana NOT Wisconsin)" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "odocoileus virginianus stateprovince:"New York"" ; Times: 1
+	Query: "3996" ; Times: 1
+	Query: "new york odocoileus virginianus AND (NOT sound NOT film)" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 976 download events in this period)
+Total number of records downloaded: 7813 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 5984
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 31
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 2
+	Date: 2015-05-08 ; Times: 1
+	Date: 2015-05-09 ; Times: 3
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-16 ; Times: 1
+	Date: 2015-05-18 ; Times: 4
+	Date: 2015-05-19 ; Times: 2
+	Date: 2015-05-21 ; Times: 13
+	Date: 2015-05-22 ; Times: 5
+	Date: 2015-05-26 ; Times: 3
+	Date: 2015-05-27 ; Times: 3
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""Lontra canadensis"" ; Times: 1
+	Query: "Tamias minimus stateprovince:"Colorado" distance(location,geopoint(39.774769485295465,-105.46875))<82878" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 2001 year <= 2016" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1951 year <= 1960" ; Times: 1
+	Query: "odocoileus virginianus stateprovince:"New York"" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1971 year <= 1980" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1901 year <= 1910" ; Times: 1
+	Query: ""lynx rufus"" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1941 year <= 1950" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "stateprovince:"Nevada" country:"United States" class:Mammalia" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:mammalia" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "Peromyscus attwateri" ; Times: 1
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1921 year <= 1930" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1981 year <= 1990" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1961 year <= 1970" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "Phoca vitulina type:specimen year >= 1600 year <= 2014" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1911 year <= 1920" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "stateprovince:"wyoming" specificepithet:ludovicianus genus:cynomys" ; Times: 1
+	Query: "Ochotona princeps mappable:1" ; Times: 1
+	Query: "stateprovince:"wyoming" specificepithet:leucurus genus:cynomys" ; Times: 1
+	Query: "peromyscus pectoralis" ; Times: 2
+	Query: "Caviidae" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "Chinchillidae" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1931 year <= 1940" ; Times: 1
+	Query: "peromyscus crinitus" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 190
+Total number of records retrieved from searches: 1163
+Number of download events that retrieved data from the resource: 109
+Total number of records downloaded: 10311
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 216
+Total number of records retrieved from searches: 1583
+Number of download events that retrieved data from the resource: 466
+Total number of records downloaded: 38777
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
