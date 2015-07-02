@@ -1,0 +1,121 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 208
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 22
+	Country: United States ; Times: 22
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-04 ; Times: 2
+	Date: 2015-06-05 ; Times: 8
+	Date: 2015-06-06 ; Times: 2
+	Date: 2015-06-08 ; Times: 1
+	Date: 2015-06-09 ; Times: 1
+	Date: 2015-06-15 ; Times: 2
+	Date: 2015-06-19 ; Times: 4
+	Date: 2015-06-22 ; Times: 1
+	Date: 2015-06-23 ; Times: 1
+	Date: 2015-06-24 ; Times: 22
+	Date: 2015-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lateralis teton" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: ""mustela nigripes"" ; Times: 1
+	Query: "Tamiasciurus wyoming" ; Times: 1
+	Query: "Tamiasciurus hudsonicus wyoming" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "specificepithet:nanus genus:sorex" ; Times: 1
+	Query: "Antilocapra" ; Times: 22
+	Query: "Sorex nanus" ; Times: 1
+	Query: "Tamiasciurus wyoming teton" ; Times: 1
+	Query: "class:mammalia year >= 1900 year <= 2015 distance(location,geopoint(39.93905620603078,-82.94677734375))<37433.163972486814" ; Times: 1
+	Query: "Euderma maculatum country:"United States"" ; Times: 1
+	Query: "urocitellus elegans" ; Times: 2
+	Query: "Didelphis" ; Times: 1
+	Query: "cavia" ; Times: 2
+	Query: ""Platte county" nebraska" ; Times: 1
+	Query: "antilocapra americana mappable:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1524 download events in this period)
+Total number of records downloaded: 680 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 601
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 26
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 1
+	Date: 2015-06-05 ; Times: 3
+	Date: 2015-06-06 ; Times: 2
+	Date: 2015-06-09 ; Times: 11
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-16 ; Times: 1
+	Date: 2015-06-22 ; Times: 3
+	Date: 2015-06-24 ; Times: 1
+	Date: 2015-06-25 ; Times: 3
+	Date: 2015-06-26 ; Times: 2
+	Date: 2015-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Illinois" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Myotis volans country:"United States"" ; Times: 1
+	Query: "Myotis yumanensis country:"United States"" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 2
+	Query: "Corynorhinus townsendii country:"United States"" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Lasiurus cinereus country:"United States"" ; Times: 1
+	Query: "county:"san luis obispo" stateprovince:"California" country:"United States" mappable:1" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "Corynorhinus townsendii country:"United States" mappable:1" ; Times: 2
+	Query: "sciurus niger rufiventer" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Antrozous pallidus country:"United States"" ; Times: 1
+	Query: "stateprovince:"oklahoma" class:Mammalia" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "urocitellus parryii" ; Times: 1
+	Query: "Myotis evotis country:"United States"" ; Times: 1
+	Query: "urocitellus elegans" ; Times: 1
+	Query: "county:"Kern" stateprovince:"california" mappable:1" ; Times: 1
+	Query: "Myotis thysanodes country:"United States"" ; Times: 1
+	Query: "Myotis keenii country:"United States"" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"United States"" ; Times: 1
+	Query: "class:mammalia year >= 1900 year <= 2015 distance(location,geopoint(39.93905620603078,-82.94677734375))<37433.163972486814" ; Times: 1
+	Query: "Euderma maculatum country:"United States"" ; Times: 1
+	Query: "Eptesicus fuscus country:"United States"" ; Times: 2
+	Query: "antilocapra americana mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 235
+Total number of records retrieved from searches: 1371
+Number of download events that retrieved data from the resource: 139
+Total number of records downloaded: 10991
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 261
+Total number of records retrieved from searches: 1791
+Number of download events that retrieved data from the resource: 496
+Total number of records downloaded: 39457
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
