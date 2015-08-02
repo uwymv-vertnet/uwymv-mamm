@@ -1,0 +1,157 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 94
+Number of records retrieved in searches: 502
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 93
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 4
+	Date: 2015-07-04 ; Times: 1
+	Date: 2015-07-08 ; Times: 2
+	Date: 2015-07-09 ; Times: 9
+	Date: 2015-07-10 ; Times: 1
+	Date: 2015-07-12 ; Times: 2
+	Date: 2015-07-14 ; Times: 1
+	Date: 2015-07-22 ; Times: 66
+	Date: 2015-07-24 ; Times: 2
+	Date: 2015-07-27 ; Times: 1
+	Date: 2015-07-28 ; Times: 3
+	Date: 2015-07-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:500" ; Times: 1
+	Query: "6028 institutioncode:UWYMV" ; Times: 2
+	Query: "tamias amoenus institutioncode:UWYMV" ; Times: 1
+	Query: "Procyon Wyoming" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "5436 institutioncode:UWYMV" ; Times: 2
+	Query: "4263 institutioncode:UWYMV" ; Times: 2
+	Query: "3474 institutioncode:UWYMV" ; Times: 2
+	Query: "blarina missouri" ; Times: 1
+	Query: "type:specimen genus:ovis institutioncode:UWYMV" ; Times: 1
+	Query: ""Sciurus griseus" distance(location,geopoint(33.708347493688414,-117.52212524414062))<41248" ; Times: 1
+	Query: "2999 institutioncode:UWYMV" ; Times: 2
+	Query: "county:"San Juan" stateprovince:"Utah" specificepithet:crinitus genus:Peromyscus" ; Times: 1
+	Query: "2436 institutioncode:UWYMV" ; Times: 4
+	Query: "UWYMV 4583" ; Times: 1
+	Query: "3838 institutioncode:UWYMV" ; Times: 2
+	Query: "169 institutioncode:UWYMV" ; Times: 2
+	Query: "4571 institutioncode:UWYMV" ; Times: 2
+	Query: "stateprovince:"Utah" specificepithet:longimembris genus:Perognathus" ; Times: 1
+	Query: "2968 institutioncode:UWYMV" ; Times: 2
+	Query: "Xerospermophilus spilosoma" ; Times: 2
+	Query: "4578 institutioncode:UWYMV" ; Times: 2
+	Query: "3810 institutioncode:UWYMV" ; Times: 2
+	Query: "3002 institutioncode:UWYMV" ; Times: 2
+	Query: "Tayassuidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "4584 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:2965 institutioncode:UWYMV" ; Times: 2
+	Query: "4588 institutioncode:UWYMV" ; Times: 2
+	Query: "4577 institutioncode:UWYMV" ; Times: 2
+	Query: "2450 institutioncode:UWYMV" ; Times: 4
+	Query: "reithrodontomys utah" ; Times: 5
+	Query: "5383 institutioncode:UWYMV" ; Times: 2
+	Query: "4583 institutioncode:UWYMV" ; Times: 2
+	Query: "Routt Colorado Mammalia" ; Times: 1
+	Query: "xerospermophilus spilosoma" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "Antilocapridae year >= 1975 year <= 2015" ; Times: 1
+	Query: "6055 institutioncode:UWYMV" ; Times: 2
+	Query: "reithrodontomys megalotis utah" ; Times: 1
+	Query: "4587 institutioncode:UWYMV" ; Times: 2
+	Query: "2437 institutioncode:UWYMV" ; Times: 2
+	Query: ""onychomys leucogaster" institutioncode:UWYMV" ; Times: 1
+	Query: "reithrodontomys Utah" ; Times: 3
+	Query: "lynx canadensis institutioncode:UWYMV" ; Times: 1
+	Query: "type:specimen genus:bison institutioncode:UWYMV" ; Times: 2
+	Query: "felis chaus institutioncode:UWYMV" ; Times: 1
+	Query: "2984 institutioncode:UWYMV" ; Times: 2
+	Query: "desmodus stateprovince:"oaxaca"" ; Times: 1
+	Query: "type:specimen genus:antilocapra institutioncode:UWYMV" ; Times: 1
+	Query: "6051 institutioncode:UWYMV" ; Times: 1
+	Query: "6056 institutioncode:UWYMV" ; Times: 2
+	Query: "4576 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:2048 institutioncode:UWYMV" ; Times: 2
+	Query: "5435 institutioncode:UWYMV" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1084 download events in this period)
+Total number of records downloaded: 917 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 833
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 1
+	Date: 2015-07-02 ; Times: 3
+	Date: 2015-07-07 ; Times: 1
+	Date: 2015-07-08 ; Times: 4
+	Date: 2015-07-09 ; Times: 1
+	Date: 2015-07-12 ; Times: 1
+	Date: 2015-07-13 ; Times: 4
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-24 ; Times: 7
+	Date: 2015-07-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Procyon Wyoming" ; Times: 1
+	Query: "myotis lucifugus country:"United States"" ; Times: 1
+	Query: "country:"mexico" specificepithet:leucopus genus:Peromyscus" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "blarina missouri" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "country:"Mexico" class:Mammalia" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "mammalia mexico" ; Times: 1
+	Query: "lemmiscus curtatus" ; Times: 1
+	Query: "Xerospermophilus spilosoma" ; Times: 1
+	Query: "sciurus griseus" ; Times: 1
+	Query: "county:"Uintah" stateprovince:"Utah"" ; Times: 1
+	Query: "tamias minimus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "chiroptera stateprovince:"oaxaca"" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "("myodes gapperi" OR "clethrionomys gapperi") mappable:1" ; Times: 1
+	Query: "mammalia san juan county utah" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 329
+Total number of records retrieved from searches: 1873
+Number of download events that retrieved data from the resource: 166
+Total number of records downloaded: 11908
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 355
+Total number of records retrieved from searches: 2293
+Number of download events that retrieved data from the resource: 523
+Total number of records downloaded: 40374
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
