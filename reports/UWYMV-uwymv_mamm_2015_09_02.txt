@@ -1,0 +1,147 @@
+Report for Institution Code UWYMV, Resource Mammal specimens
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 84
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: Russia ; Times: 1
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-03 ; Times: 4
+	Date: 2015-08-04 ; Times: 2
+	Date: 2015-08-05 ; Times: 1
+	Date: 2015-08-06 ; Times: 1
+	Date: 2015-08-07 ; Times: 1
+	Date: 2015-08-11 ; Times: 1
+	Date: 2015-08-13 ; Times: 1
+	Date: 2015-08-14 ; Times: 1
+	Date: 2015-08-24 ; Times: 2
+	Date: 2015-08-25 ; Times: 3
+	Date: 2015-08-26 ; Times: 1
+	Date: 2015-08-27 ; Times: 2
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-30 ; Times: 3
+	Date: 2015-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"wyoming" specificepithet:nuttallii genus:sylvilagus" ; Times: 1
+	Query: "pecari tajacu pima county" ; Times: 1
+	Query: "catalognumber: 4725" ; Times: 1
+	Query: "myotis yumanensis wyoming myotis yumanensis (specimen)" ; Times: 3
+	Query: "ursus americanus colorado" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "(gerard)" ; Times: 1
+	Query: "genus: mustela specificepithet: nigripes" ; Times: 2
+	Query: "marmota flaviventris wyoming" ; Times: 2
+	Query: "genus:Chinchilla" ; Times: 1
+	Query: "neotoma clark county nevada" ; Times: 1
+	Query: "didelphis stateprovince:"Illinois"" ; Times: 1
+	Query: "Marmota flaviventris wyoming" ; Times: 1
+	Query: "6213" ; Times: 1
+	Query: "catalognumber:122" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1138 download events in this period)
+Total number of records downloaded: 847 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 639
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 38
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-04 ; Times: 4
+	Date: 2015-08-06 ; Times: 2
+	Date: 2015-08-17 ; Times: 6
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-19 ; Times: 3
+	Date: 2015-08-21 ; Times: 2
+	Date: 2015-08-22 ; Times: 1
+	Date: 2015-08-24 ; Times: 4
+	Date: 2015-08-25 ; Times: 24
+	Date: 2015-08-26 ; Times: 1
+	Date: 2015-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "" ; Times: 1
+	Query: "Microtus miurus" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "didelphidae" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 3
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "Didelphidae" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "county:"Riverside County"" ; Times: 1
+	Query: "didelphis" ; Times: 1
+	Query: ""Lasiurus cinereus" mappable:1" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Dicrostonyx groenlandicus" ; Times: 1
+	Query: "synaptomys borealis" ; Times: 1
+	Query: "specificepithet:floridana genus:neotoma" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Marmota flaviventris" ; Times: 1
+	Query: "Lepus townsendii" ; Times: 1
+	Query: ""Pecari tajacu" mappable:1" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "marmota flaviventris wyoming" ; Times: 3
+	Query: ""Odocoileus virginianus" mappable:1" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "perognathus flavescens" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "Mustela nivalis" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: ""Desmodus rotundus" mappable:1" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 26
+Total number of records retrieved from searches: 84
+Number of download events that retrieved data from the resource: 51
+Total number of records downloaded: 847
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 26
+Total number of records retrieved from searches: 84
+Number of download events that retrieved data from the resource: 51
+Total number of records downloaded: 847
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
