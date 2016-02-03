@@ -1,0 +1,111 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 283
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 2
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-29 ; Times: 4
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-30 ; Times: 4
+	Date: 2015-10-24 ; Times: 2
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "27542 mammal" ; Times: 1
+	Query: "catalognumber:2972 institutioncode:UWYMV" ; Times: 1
+	Query: "canis latrans (skin) institutioncode:UWYMV" ; Times: 1
+	Query: "Sciurus griseus distance(location,geopoint(34.19817309627726,-116.96182250976562))&lt;16560" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "canis latrans institutioncode:UWYMV" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "Mephitis mephitis (Skin) institutioncode:UWYMV" ; Times: 1
+	Query: "(mammal) institutioncode:UWYMV" ; Times: 1
+	Query: "urocitellus undulatus" ; Times: 1
+	Query: "mustela nigripes" ; Times: 2
+	Query: "catalognumber:2965 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "Tupaia palawanensis" ; Times: 1
+	Query: "specificepithet:monticolus genus:Sorex stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "27542" ; Times: 1
+	Query: "Odocoileus virginianus type:specimen (New York)" ; Times: 1
+	Query: "Odocoileus virginianus and wyoming" ; Times: 1
+	Query: "Vulpes vulpes (Skin) institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 3
+	Query: "mammal institutioncode:UWYMV" ; Times: 1
+	Query: "Mephitis mephitis institutioncode:UWYMV" ; Times: 1
+	Query: "euderma maculatum" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 823 download events in this period)
+Total number of records downloaded: 882
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+	Country: Unknown ; Times: 5
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 4
+	Date: 2015-10-17 ; Times: 2
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 4
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-29 ; Times: 6
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-30 ; Times: 7
+	Date: 2015-10-31 ; Times: 5
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "type:specimen (Lepus townsendii) mappable:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "ammospermophilus leucurus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "lynx canadensis mappable:1" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "peromyscus attwateri" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+
+
+End of report.
