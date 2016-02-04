@@ -1,0 +1,94 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 13
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-26 ; Times: 2
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "&#34;Mustela nigripes&#34; mappable:1" ; Times: 1
+	Query: "Myotis leibii Nebraska" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Peromyscus leucopus in Massachusetts" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 507 download events in this period)
+Total number of records downloaded: 1894
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Unknown ; Times: 8
+	Country: Australia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-31 ; Times: 2
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-06 ; Times: 4
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-03 ; Times: 2
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-13 ; Times: 4
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-11 ; Times: 3
+	Date: 2016-01-05 ; Times: 3
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "boylii" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus" ; Times: 1
+	Query: "&#34;Mustela nigripes&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "enhydra lutris california AND (NOT alaska)" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "peromyscus boylii" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Crocuta" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 9
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))&lt;78505" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "peromyscus attwateri" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Felis chaus" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+
+
+End of report.
