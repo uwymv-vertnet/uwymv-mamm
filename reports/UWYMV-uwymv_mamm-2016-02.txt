@@ -1,0 +1,103 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 291
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 4
+	Date: 2016-02-18 ; Times: 3
+	Date: 2016-02-20 ; Times: 1
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-24 ; Times: 4
+	Date: 2016-02-13 ; Times: 1
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-11 ; Times: 2
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-14 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "urocitellus mollis" ; Times: 1
+	Query: "Antilocapra Americana" ; Times: 1
+	Query: "mustela nigripes" ; Times: 2
+	Query: "urocitellus mollis stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "pecari tajacu stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "lynx rufus type:specimen (ethanol OR fluid OR alcohol ) mappable:1" ; Times: 1
+	Query: "sorex nanus" ; Times: 1
+	Query: "lynx rufus type:specimen country:&#34;United States&#34; (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 2
+	Query: "specificepithet:Latrans genus:Canis county:&#34;Park&#34;" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 2
+	Query: "lynx rufus type:specimen country:&#34;United States&#34; (fluid OR ethanol OR alcohol) mappable:1" ; Times: 1
+	Query: "urocitellus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "urocitellus townsendii" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "felis catus type:specimen (United States skull)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 512 download events in this period)
+Total number of records downloaded: 1167
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 18
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 2
+	Date: 2016-02-18 ; Times: 6
+	Date: 2016-02-19 ; Times: 8
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 3
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-16 ; Times: 3
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-14 ; Times: 3
+	Date: 2016-02-15 ; Times: 1
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-27 ; Times: 4
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "county:&#34;Sheridan&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "Bos taurus" ; Times: 1
+	Query: "lynx rufus type:specimen (ethanol OR fluid OR alcohol ) mappable:1" ; Times: 1
+	Query: "puma concolor" ; Times: 8
+	Query: "ochotona princeps" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Callospermophilus lateralis" ; Times: 3
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "county:&#34;Hot Springs&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
