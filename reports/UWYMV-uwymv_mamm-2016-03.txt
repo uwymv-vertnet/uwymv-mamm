@@ -1,0 +1,58 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 13
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 2
+	Date: 2016-03-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "urocitellus stateprovince:&#34;Utah&#34; (townsendii mollis)" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "urocitellus mollis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 230 download events in this period)
+Total number of records downloaded: 754
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Unknown ; Times: 10
+	Country: Chile ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-09 ; Times: 3
+	Date: 2016-03-10 ; Times: 4
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-11 ; Times: 2
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-13 ; Times: 2
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sigmodontinae" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+
+
+End of report.
