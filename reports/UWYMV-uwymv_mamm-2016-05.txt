@@ -1,0 +1,69 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 52
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Unknown ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-19 ; Times: 1
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-14 ; Times: 2
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-31 ; Times: 1
+	Date: 2016-05-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mustela nigripes" ; Times: 14
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-110.247516))&lt;15000" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus year &gt;= 1970 year &lt;= 2016" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 327 download events in this period)
+Total number of records downloaded: 1131
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 5
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Peromyscus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "PUMA CONCOLOR" ; Times: 2
+
+
+End of report.
