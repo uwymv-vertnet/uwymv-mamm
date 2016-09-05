@@ -1,0 +1,139 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 156
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Unknown ; Times: 3
+	Country: Netherlands ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 2
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-13 ; Times: 2
+	Date: 2016-08-29 ; Times: 8
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-16 ; Times: 3
+	Date: 2016-08-17 ; Times: 2
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-24 ; Times: 3
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-21 ; Times: 2
+	Date: 2016-08-20 ; Times: 3
+	Date: 2016-08-30 ; Times: 12
+	Date: 2016-08-31 ; Times: 4
+	Date: 2016-08-25 ; Times: 2
+	Date: 2016-08-23 ; Times: 2
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-14 ; Times: 3
+	Date: 2016-08-22 ; Times: 2
+	Date: 2016-08-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "mustela nigripes" ; Times: 50
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "rattus rattus massachusetts" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "urocitellus undulatus" ; Times: 5
+	Query: "felis chaus" ; Times: 1
+	Query: "tamiasciurus hudsonicus fremonti" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 76 (out of 924 download events in this period)
+Total number of records downloaded: 2087
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 11
+	Country: France ; Times: 1
+	Country: United States ; Times: 52
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-16 ; Times: 13
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 3
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-31 ; Times: 8
+	Date: 2016-08-29 ; Times: 6
+	Date: 2016-08-28 ; Times: 1
+	Date: 2016-08-25 ; Times: 11
+	Date: 2016-08-24 ; Times: 11
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 2
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-22 ; Times: 1
+	Date: 2016-08-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:maniculatus genus:Peromyscus distance(location,geopoint(40.27952566881294,-114.76318359375))&lt;266668" ; Times: 1
+	Query: "Clark Mountain" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys distance(location,geopoint(39.740986355883614,-114.89501953125))&lt;304067.83599563397" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys distance(location,geopoint(40.27952566881294,-114.76318359375))&lt;266668" ; Times: 1
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "Granite Pass" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 2
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "microtus townsendii" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "chiroptera stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "myotis grisescens" ; Times: 1
+	Query: "vulpes new mexico" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 24
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "&#34;mustela putorius&#34;" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "microtus miurus" ; Times: 2
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "dipodomys microps" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "order:Rodentia distance(location,geopoint(39.94343646197423,-115.15869140625))&lt;247312.59442489027" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys distance(location,geopoint(39.740986355883614,-114.89501953125))&lt;304067.83599563397" ; Times: 1
+	Query: "lepus townsendii" ; Times: 1
+	Query: "microtus richardsoni" ; Times: 1
+	Query: "mammalia Cryptotis" ; Times: 2
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
