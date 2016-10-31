@@ -1,0 +1,137 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 162
+Number of records retrieved in searches: 515
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 80
+	Country: Portugal ; Times: 18
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 53
+	Country: Colombia ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 2
+	Date: 2016-09-12 ; Times: 4
+	Date: 2016-09-11 ; Times: 5
+	Date: 2016-09-10 ; Times: 15
+	Date: 2016-09-17 ; Times: 3
+	Date: 2016-09-16 ; Times: 5
+	Date: 2016-09-15 ; Times: 6
+	Date: 2016-09-14 ; Times: 4
+	Date: 2016-09-30 ; Times: 5
+	Date: 2016-09-19 ; Times: 4
+	Date: 2016-09-18 ; Times: 5
+	Date: 2016-09-20 ; Times: 3
+	Date: 2016-09-21 ; Times: 9
+	Date: 2016-09-27 ; Times: 1
+	Date: 2016-09-24 ; Times: 5
+	Date: 2016-09-25 ; Times: 3
+	Date: 2016-09-28 ; Times: 4
+	Date: 2016-09-29 ; Times: 6
+	Date: 2016-09-08 ; Times: 6
+	Date: 2016-09-09 ; Times: 8
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-23 ; Times: 9
+	Date: 2016-09-06 ; Times: 8
+	Date: 2016-09-07 ; Times: 13
+	Date: 2016-09-26 ; Times: 2
+	Date: 2016-09-01 ; Times: 5
+	Date: 2016-09-02 ; Times: 8
+	Date: 2016-09-03 ; Times: 4
+	Date: 2016-09-05 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:canus genus:Spermophilus" ; Times: 4
+	Query: "type:specimen specificepithet:syrichta genus:Tarsius" ; Times: 1
+	Query: "Mus musculus 1" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "Mustela nigripes " ; Times: 2
+	Query: "vulpes macrotis stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Erethizon dorsatum mappable:1" ; Times: 1
+	Query: "mustela nigripes" ; Times: 84
+	Query: "12359" ; Times: 1
+	Query: "Mustela nigripes mappable:1" ; Times: 1
+	Query: "NA 1" ; Times: 9
+	Query: "bos taurus taurus" ; Times: 1
+	Query: "Neovison vison 1" ; Times: 4
+	Query: "Marmota marmota 1" ; Times: 3
+	Query: " mustela nigripes" ; Times: 26
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "T21N AND (NOT CAS) AND (NOT MSB)" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 5
+	Query: "Rattus rattus 1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "Procyon lotor 1" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 159 (out of 811 download events in this period)
+Total number of records downloaded: 3411
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 56
+	Country: Unknown ; Times: 1
+	Country: Netherlands ; Times: 99
+	Country: United Kingdom ; Times: 1
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 6
+	Date: 2016-09-12 ; Times: 6
+	Date: 2016-09-11 ; Times: 7
+	Date: 2016-09-10 ; Times: 2
+	Date: 2016-09-17 ; Times: 1
+	Date: 2016-09-16 ; Times: 3
+	Date: 2016-09-15 ; Times: 8
+	Date: 2016-09-14 ; Times: 3
+	Date: 2016-09-30 ; Times: 5
+	Date: 2016-09-19 ; Times: 3
+	Date: 2016-09-18 ; Times: 4
+	Date: 2016-09-20 ; Times: 1
+	Date: 2016-09-21 ; Times: 3
+	Date: 2016-09-27 ; Times: 10
+	Date: 2016-09-02 ; Times: 16
+	Date: 2016-09-25 ; Times: 2
+	Date: 2016-09-28 ; Times: 3
+	Date: 2016-09-29 ; Times: 2
+	Date: 2016-09-08 ; Times: 3
+	Date: 2016-09-09 ; Times: 2
+	Date: 2016-09-22 ; Times: 4
+	Date: 2016-09-23 ; Times: 9
+	Date: 2016-09-06 ; Times: 9
+	Date: 2016-09-07 ; Times: 6
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-01 ; Times: 14
+	Date: 2016-09-24 ; Times: 1
+	Date: 2016-09-03 ; Times: 15
+	Date: 2016-09-05 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Macrotus californicus mappable:1" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Nevada&#34;" ; Times: 6
+	Query: "order:Lagomorpha stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "tamias amoenus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 12
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "vulpes macrotis stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "&#34;Mephitis mephitis&#34; mappable:1" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "genus:ochotona" ; Times: 2
+	Query: "mustela frenata" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Idaho&#34;" ; Times: 4
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 120
+
+
+End of report.
