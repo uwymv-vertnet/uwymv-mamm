@@ -1,0 +1,133 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 164
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 71
+	Country: China ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 2
+	Date: 2017-12-31 ; Times: 2
+	Date: 2017-12-16 ; Times: 2
+	Date: 2017-12-17 ; Times: 2
+	Date: 2017-12-14 ; Times: 2
+	Date: 2017-12-15 ; Times: 2
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-13 ; Times: 3
+	Date: 2017-12-10 ; Times: 1
+	Date: 2017-12-18 ; Times: 2
+	Date: 2017-12-19 ; Times: 6
+	Date: 2017-12-29 ; Times: 2
+	Date: 2017-12-28 ; Times: 2
+	Date: 2017-12-27 ; Times: 4
+	Date: 2017-12-26 ; Times: 7
+	Date: 2017-12-25 ; Times: 2
+	Date: 2017-12-24 ; Times: 2
+	Date: 2017-12-23 ; Times: 2
+	Date: 2017-12-22 ; Times: 2
+	Date: 2017-12-21 ; Times: 2
+	Date: 2017-12-20 ; Times: 2
+	Date: 2017-12-05 ; Times: 4
+	Date: 2017-12-04 ; Times: 3
+	Date: 2017-12-07 ; Times: 1
+	Date: 2017-12-06 ; Times: 4
+	Date: 2017-12-01 ; Times: 2
+	Date: 2017-12-03 ; Times: 5
+	Date: 2017-12-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:merriami genus:Sorex mappable:1" ; Times: 1
+	Query: "mustela nigripes" ; Times: 54
+	Query: "distance(location,geopoint(39.917526642143,-74.1392156043335))&lt;6646" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 4
+	Query: "sorex nanus" ; Times: 1
+	Query: "Mustela nigripes mappable:1" ; Times: 1
+	Query: "north haven specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "Human" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "class:mammalia county:&#34;Cook&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Genoa" ; Times: 1
+	Query: "catalognumber:642" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;missouri&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 674 download events in this period)
+Total number of records downloaded: 1103
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-27 ; Times: 11
+	Date: 2017-12-26 ; Times: 10
+	Date: 2017-12-20 ; Times: 3
+	Date: 2017-12-16 ; Times: 2
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-14 ; Times: 7
+	Date: 2017-12-15 ; Times: 4
+	Date: 2017-12-11 ; Times: 2
+	Date: 2017-12-18 ; Times: 1
+	Date: 2017-12-19 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus miurus" ; Times: 1
+	Query: "Sylvilagus audubonii mappable:1" ; Times: 2
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "Zapus princeps mappable:1" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 2
+	Query: "Lepus townsendii mappable:1" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+	Query: "Microtus oeconomus" ; Times: 2
+	Query: "sorex nanus" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "Odocoileus hemionus mappable:1" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "Sylvilagus nuttallii mappable:1" ; Times: 1
+	Query: "sorex monticolus" ; Times: 2
+	Query: "sorex palustris" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "Synaptomys borealis mappable:1" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "Mustela nigripes mappable:1" ; Times: 1
+	Query: "Lepus americanus mappable:1" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "sorex merriami" ; Times: 1
+	Query: "Perognathus flavescens mappable:1" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 1
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "Martes americana mappable:1" ; Times: 1
+	Query: "Odocoileus virginianus mappable:1" ; Times: 1
+	Query: "Perognathus fasciatus mappable:1" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "Microtus townsendii" ; Times: 1
+
+
+End of report.
