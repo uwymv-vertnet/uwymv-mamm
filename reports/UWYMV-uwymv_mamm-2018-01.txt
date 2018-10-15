@@ -1,0 +1,191 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 159
+Number of records retrieved in searches: 537
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: Denmark ; Times: 20
+	Country: United States ; Times: 125
+	Country: Colombia ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 5
+	Date: 2018-01-18 ; Times: 7
+	Date: 2018-01-31 ; Times: 11
+	Date: 2018-01-30 ; Times: 2
+	Date: 2018-01-11 ; Times: 3
+	Date: 2018-01-10 ; Times: 3
+	Date: 2018-01-13 ; Times: 4
+	Date: 2018-01-12 ; Times: 5
+	Date: 2018-01-15 ; Times: 13
+	Date: 2018-01-14 ; Times: 7
+	Date: 2018-01-17 ; Times: 7
+	Date: 2018-01-16 ; Times: 12
+	Date: 2018-01-24 ; Times: 5
+	Date: 2018-01-25 ; Times: 11
+	Date: 2018-01-08 ; Times: 2
+	Date: 2018-01-09 ; Times: 5
+	Date: 2018-01-28 ; Times: 5
+	Date: 2018-01-29 ; Times: 5
+	Date: 2018-01-02 ; Times: 5
+	Date: 2018-01-03 ; Times: 2
+	Date: 2018-01-26 ; Times: 3
+	Date: 2018-01-27 ; Times: 2
+	Date: 2018-01-06 ; Times: 2
+	Date: 2018-01-21 ; Times: 2
+	Date: 2018-01-22 ; Times: 6
+	Date: 2018-01-07 ; Times: 3
+	Date: 2018-01-04 ; Times: 3
+	Date: 2018-01-05 ; Times: 9
+	Date: 2018-01-23 ; Times: 8
+	Date: 2018-01-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(39.3046985515001,-81.4958979025))&lt;23581" ; Times: 3
+	Query: "distance(location,geopoint(39.917526642143,-74.1392156043335))&lt;6646" ; Times: 4
+	Query: "Cervus elaphus" ; Times: 5
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 1
+	Query: "Ammospermophilus nelsoni" ; Times: 2
+	Query: "catalognumber:1290" ; Times: 2
+	Query: "county:&#34;Hancock&#34; stateprovince:&#34;Ohio&#34;" ; Times: 8
+	Query: "Pecari tajacu" ; Times: 2
+	Query: "Alces alces alces mappable:1" ; Times: 1
+	Query: "crocuta crocuta mappable:1" ; Times: 1
+	Query: "genus:Macaca institutioncode:UWYMV" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "catalognumber:4208" ; Times: 1
+	Query: "distance(location,geopoint(41.8351487459,-73.4874272519999))&lt;9409" ; Times: 2
+	Query: "bison skin" ; Times: 3
+	Query: "tupaia" ; Times: 1
+	Query: "county:&#34;Pittsylvania&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "E. Dorsatum mappable:1" ; Times: 1
+	Query: "genus:Macaca" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "mustela nigripes" ; Times: 60
+	Query: "class:Mammalia locality:Indiana" ; Times: 3
+	Query: "&#34;erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "&#34;Bassariscus astutus&#34; mappable:1" ; Times: 2
+	Query: "specificepithet:mulatta genus:Macaca" ; Times: 1
+	Query: "Alces alces mappable:1" ; Times: 1
+	Query: "erethizon dorsatum mappable:1" ; Times: 1
+	Query: "ammotragus lervia" ; Times: 1
+	Query: "Alces alces" ; Times: 5
+	Query: "catalognumber:4458" ; Times: 2
+	Query: "&#34;Tarsiidae&#34; mappable:1" ; Times: 1
+	Query: "brown pelican" ; Times: 1
+	Query: "Lepus alleni" ; Times: 2
+	Query: "Macaca" ; Times: 1
+	Query: "Chinchilla lanigera" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Felis catus" ; Times: 2
+	Query: "specificepithet:princeps genus:Ochotona stateprovince:&#34;Wyoming&#34; institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 3
+	Query: "specificepithet:bison genus:bison preparations:skin" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "E. dorsatum Erethizon dorsatum mappable:1" ; Times: 3
+	Query: "&#34;Tarsius syrichta&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:Bison genus:Bison" ; Times: 1
+	Query: "Alces alces alces" ; Times: 4
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "Cervus elaphus elaphus" ; Times: 4
+	Query: "catalognumber:1044" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 1398 download events in this period)
+Total number of records downloaded: 1419
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Italy ; Times: 12
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-31 ; Times: 6
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-02 ; Times: 12
+	Date: 2018-01-06 ; Times: 11
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-16 ; Times: 1
+	Date: 2018-01-24 ; Times: 3
+	Date: 2018-01-30 ; Times: 6
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-25 ; Times: 3
+	Date: 2018-01-23 ; Times: 2
+	Date: 2018-01-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis evotis mappable:1" ; Times: 1
+	Query: "Myotis thysanodes mappable:1" ; Times: 1
+	Query: "Lasiurus cinereus mappable:1" ; Times: 1
+	Query: "Myotis keenii mappable:1" ; Times: 1
+	Query: "county:&#34;Hancock&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Microdipodops megacephalus" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Myotis grisescens mappable:1" ; Times: 1
+	Query: "Myotis volans mappable:1" ; Times: 1
+	Query: "Lasiurus borealis mappable:1" ; Times: 1
+	Query: "Rattus rattus" ; Times: 2
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "Myotis lucifugus mappable:1" ; Times: 1
+	Query: "Lepus alleni" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 2
+	Query: "Myotis sodalis mappable:1" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Sciurus niger rufiventer" ; Times: 1
+	Query: "Myotis leibii mappable:1" ; Times: 1
+	Query: "family:Cricetidae order:Rodentia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Neovison vison" ; Times: 1
+	Query: "genus:Odocoileus country:&#34;United States&#34;" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 2
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "ammotragus lervia" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Chinchilla lanigera" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Myotis yumanensis mappable:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis mappable:1" ; Times: 1
+	Query: "order:Didelphimorphia" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "genus:Zapus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+
+
+End of report.
