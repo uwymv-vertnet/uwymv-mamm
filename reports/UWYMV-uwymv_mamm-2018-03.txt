@@ -1,0 +1,572 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 694
+Number of records retrieved in searches: 1108
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 667
+	Country: Unknown ; Times: 9
+	Country: United Kingdom ; Times: 8
+	Country: China ; Times: 2
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 32
+	Date: 2018-03-29 ; Times: 16
+	Date: 2018-03-17 ; Times: 2
+	Date: 2018-03-16 ; Times: 2
+	Date: 2018-03-15 ; Times: 5
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-13 ; Times: 2
+	Date: 2018-03-12 ; Times: 4
+	Date: 2018-03-11 ; Times: 4
+	Date: 2018-03-10 ; Times: 3
+	Date: 2018-03-31 ; Times: 2
+	Date: 2018-03-30 ; Times: 7
+	Date: 2018-03-19 ; Times: 10
+	Date: 2018-03-01 ; Times: 10
+	Date: 2018-03-02 ; Times: 15
+	Date: 2018-03-03 ; Times: 4
+	Date: 2018-03-04 ; Times: 2
+	Date: 2018-03-05 ; Times: 365
+	Date: 2018-03-06 ; Times: 91
+	Date: 2018-03-07 ; Times: 2
+	Date: 2018-03-08 ; Times: 5
+	Date: 2018-03-09 ; Times: 6
+	Date: 2018-03-25 ; Times: 6
+	Date: 2018-03-22 ; Times: 7
+	Date: 2018-03-23 ; Times: 6
+	Date: 2018-03-20 ; Times: 8
+	Date: 2018-03-21 ; Times: 11
+	Date: 2018-03-27 ; Times: 30
+	Date: 2018-03-26 ; Times: 35
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:5489 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Glaucomys specificepithet:volans" ; Times: 2
+	Query: "catalognumber:1916 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1280 institutioncode:UWYMV" ; Times: 2
+	Query: "&#34;South Park&#34; Colorado" ; Times: 1
+	Query: "catalognumber:2931 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2167 institutioncode:UWYMV" ; Times: 3
+	Query: "catalognumber:501 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5547 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5524 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5479 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1334 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2652 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:345 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:340 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2719 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1181 institutioncode:UWYMV" ; Times: 3
+	Query: "catalognumber:5525 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:5476 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2269 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5530 institutioncode:UWYMV" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "catalognumber:5493 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:561 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1237 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:humulis" ; Times: 5
+	Query: "catalognumber:532 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5537 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2933 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:140 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:898 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:2655 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:5483 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2939 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2880 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1930 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:310 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:5583 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:6210 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1939 institutioncode:UWYMV" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "catalognumber:5854 institutioncode:UWYMV" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 7
+	Query: "catalognumber:5502 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5953 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2883 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:44 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1912 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2927 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5529 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:480 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2695 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:3945 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2934 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:147 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:520 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Myotis specificepithet:thysanodes" ; Times: 2
+	Query: "catalognumber:2889 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1914 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:989 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:150 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:482 institutioncode:UWYMV" ; Times: 1
+	Query: "specificepithet:tajacu genus:Pecari" ; Times: 1
+	Query: "catalognumber:5488 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5531 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5577 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2891 institutioncode:UWYMV" ; Times: 1
+	Query: "Microtus richardsoni vntype:specimen" ; Times: 1
+	Query: "genus:Lasionycteris specificepithet:noctivagans" ; Times: 2
+	Query: "catalognumber:406 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:410 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:231 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1965 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1921 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2429 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2222 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:2649 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:3130 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:156 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:1728 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5532 institutioncode:UWYMV" ; Times: 1
+	Query: "chinchilla" ; Times: 3
+	Query: "catalognumber:348 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2941 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:841 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:3941 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2398 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5485 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2653 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5475 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:229 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5538 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:252 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Macaca specificepithet:mulatta" ; Times: 7
+	Query: "catalognumber:5508 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2211 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1451 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1913 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2921 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:185 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:352 institutioncode:UWYMV" ; Times: 1
+	Query: "macaca" ; Times: 1
+	Query: "catalognumber:308 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1273 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2930 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2340 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:401 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:891 institutioncode:UWYMV" ; Times: 2
+	Query: "class:Mammalia locality:Kansas" ; Times: 2
+	Query: "catalognumber:979 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1274 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:551 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2430 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:347 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:4897 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:303 institutioncode:UWYMV" ; Times: 2
+	Query: "genus:Suncus specificepithet:murinus" ; Times: 2
+	Query: "catalognumber:5528 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1915 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2903 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Desmodus specificepithet:rotundus" ; Times: 1
+	Query: "catalognumber:2888 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Aplodontia specificepithet:rufa" ; Times: 6
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 4
+	Query: "specificepithet:latrans genus:Canis (urban OR city)" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "catalognumber:5474 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:596 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:261 institutioncode:UWYMV" ; Times: 3
+	Query: "catalognumber:1325 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:borealis" ; Times: 2
+	Query: "catalognumber:2906 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:67 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2947 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:4102 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1937 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1940 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5481 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1140 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Lepus specificepithet:californicus" ; Times: 2
+	Query: "catalognumber:5477 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Podomys specificepithet:floridanus" ; Times: 2
+	Query: "catalognumber:5478 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1252 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:608 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:6023 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Neotoma specificepithet:floridana" ; Times: 5
+	Query: "catalognumber:1193 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5494 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:228 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2905 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1932 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Puma specificepithet:concolor" ; Times: 2
+	Query: "catalognumber:932 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:144 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:6024 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2897 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2428 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5491 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:455 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Mesocricetus specificepithet:auratus" ; Times: 5
+	Query: "genus:Lontra specificepithet:canadensis" ; Times: 2
+	Query: "catalognumber:571 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2900 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Tarsius specificepithet:syrichta" ; Times: 8
+	Query: "catalognumber:522 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:127 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2907 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:978 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1935 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2885 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:312 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:2923 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5499 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:6 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5492 institutioncode:UWYMV" ; Times: 1
+	Query: "specificepithet:nigripes genus:mustela" ; Times: 1
+	Query: "catalognumber:2882 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1911 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:78 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:6022 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:6064 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5527 institutioncode:UWYMV" ; Times: 2
+	Query: "felis catus" ; Times: 2
+	Query: "catalognumber:4704 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:826 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:2035 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:53 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5497 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:702 institutioncode:UWYMV" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "catalognumber:3517 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:398 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:309 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:4187 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:6021 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5490 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:484 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:39 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1928 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Macrotus specificepithet:californicus" ; Times: 2
+	Query: "catalognumber:5579 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1176 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2948 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5503 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2945 institutioncode:UWYMV" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "catalognumber:255 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:154 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5563 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:232 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:153 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:233 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5562 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1146 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1217 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5480 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2924 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2016 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2902 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5501 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:558 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2875 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:241 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2944 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:280 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:227 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:408 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:2158 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:740 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:311 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:1192 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2884 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1748 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:556 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:1348 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1336 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:76 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:811 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:1929 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:253 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5536 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1155 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:407 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:34 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2942 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:575 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5495 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2221 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1938 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1179 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:2919 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 8
+	Query: "catalognumber:557 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:236 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2356 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:36 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:3946 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:479 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2928 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2899 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:251 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1933 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2949 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1943 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia class:Mammalia" ; Times: 2
+	Query: "catalognumber:515 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:633 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:4703 institutioncode:UWYMV" ; Times: 1
+	Query: "genus=mustela specificepithet=nigripes mappable=1" ; Times: 1
+	Query: "catalognumber:1936 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1942 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "genus:Lasionycteris month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "catalognumber:2155 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5545 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1269 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:3937 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:418 institutioncode:UWYMV" ; Times: 1
+	Query: "recordedby:KING institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2901 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1918 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1072 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1919 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:28 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2878 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:313 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:336 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:146 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:560 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2887 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:422 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2280 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2935 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2161 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:729 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5521 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:5473 institutioncode:UWYMV" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 2
+	Query: "genus:Castor specificepithet:canadensis" ; Times: 2
+	Query: "catalognumber:5850 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:237 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1249 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2706 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:35 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2388 institutioncode:UWYMV" ; Times: 1
+	Query: "specificepithet:nigripes genus:mustela year&gt;=1900" ; Times: 1
+	Query: "catalognumber:2874 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:254 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1136 institutioncode:UWYMV" ; Times: 3
+	Query: "catalognumber:5523 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:2922 institutioncode:UWYMV" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "catalognumber:2936 institutioncode:UWYMV" ; Times: 1
+	Query: "specificepithet:americana genus:Martes institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:33 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:1236 institutioncode:UWYMV" ; Times: 1
+	Query: "specificepithet:leucurus genus:Ammospermophilus county:&#34;los angeles&#34; stateprovince:&#34;california&#34;" ; Times: 3
+	Query: "catalognumber:2323 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1922 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Oryzomys specificepithet:palustris" ; Times: 2
+	Query: "catalognumber:338 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5586 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5587 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2656 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Myotis specificepithet:evotis" ; Times: 2
+	Query: "mustela nigripes" ; Times: 62
+	Query: "catalognumber:1175 institutioncode:UWYMV" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 10
+	Query: "recordedby:Miller institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Myotis specificepithet:keenii" ; Times: 5
+	Query: "catalognumber:2918 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5484 institutioncode:UWYMV" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis" ; Times: 1
+	Query: "catalognumber:2654 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5507 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2920 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:230 institutioncode:UWYMV" ; Times: 1
+	Query: "year &gt;= 1941 year &lt;= 1941 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5841 institutioncode:UWYMV" ; Times: 1
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 2
+	Query: "catalognumber:5505 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5487 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Ochrotomys specificepithet:nuttalli" ; Times: 2
+	Query: "catalognumber:563 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:582 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:3950 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1218 institutioncode:UWYMV" ; Times: 2
+	Query: "scientificname:mustela nigripes" ; Times: 2
+	Query: "catalognumber:516 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5522 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:2898 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2642 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:137 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2418 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5421 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2876 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:249 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:545 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Vulpes institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:6025 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Synaptomys specificepithet:cooperi" ; Times: 2
+	Query: "catalognumber:2946 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Myotis specificepithet:sodalis" ; Times: 5
+	Query: "catalognumber:306 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2895 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Crocuta specificepithet:crocuta" ; Times: 5
+	Query: "catalognumber:2431 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:5526 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1743 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5539 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:555 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1233 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Tupaia specificepithet:palawanensis" ; Times: 5
+	Query: "genus:Lasiurus specificepithet:cinereus" ; Times: 2
+	Query: "catalognumber:5504 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:6077 institutioncode:UWYMV" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "genus:Bos specificepithet:taurus" ; Times: 5
+	Query: "catalognumber:2 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:292 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1164 institutioncode:UWYMV" ; Times: 4
+	Query: "catalognumber:2437 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2896 institutioncode:UWYMV" ; Times: 1
+	Query: "county:&#34;Teton&#34; catalognumber:190 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:304 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5509 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:4189 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1339 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5496 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:238 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1161 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:5506 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5580 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:142 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5500 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1745 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2328 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:629 institutioncode:UWYMV" ; Times: 1
+	Query: "specificepithet:mexicana genus:Neotoma" ; Times: 1
+	Query: "catalognumber:658 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:521 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2782 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:638 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1934 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:2890 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5959 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2937 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5482 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2929 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:896 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:368 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2877 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:3473 institutioncode:UWYMV" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "catalognumber:148 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2370 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:234 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:326 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:286 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2925 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:305 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Ursus specificepithet:arctos" ; Times: 2
+	Query: "catalognumber:395 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:332 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:325 institutioncode:UWYMV" ; Times: 1
+	Query: "recordedby:binns institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1925 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2940 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5578 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2977 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:6042 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Microtus specificepithet:ochrogaster" ; Times: 2
+	Query: "catalognumber:226 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1923 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5486 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5582 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5533 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:397 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:307 institutioncode:UWYMV" ; Times: 3
+	Query: "catalognumber:100 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2533 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1251 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1741 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Felis specificepithet:catus" ; Times: 5
+	Query: "catalognumber:2879 institutioncode:UWYMV" ; Times: 1
+	Query: "sex:female specificepithet: nigripes " ; Times: 1
+	Query: "catalognumber:1931 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2943 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2159 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5581 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:3938 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5498 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2491 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2938 institutioncode:UWYMV" ; Times: 1
+	Query: "specificepithet:latrans genus:canis year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "catalognumber:2443 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2917 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2450 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1917 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:982 institutioncode:UWYMV" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "catalognumber:3128 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5558 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:481 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:4 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:243 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2881 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2904 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:5534 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1945 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2886 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:4098 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2932 institutioncode:UWYMV" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1284 download events in this period)
+Total number of records downloaded: 183
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-29 ; Times: 3
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-06 ; Times: 3
+	Date: 2018-03-10 ; Times: 2
+	Date: 2018-03-26 ; Times: 2
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-24 ; Times: 2
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 3
+	Query: "specificepithet:leucurus genus:Ammospermophilus county:&#34;los angeles&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:lutris genus:Enhydra basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Otariidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia class:Mammalia" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Neotoma micropus" ; Times: 2
+	Query: "Bassariscus" ; Times: 1
+	Query: "family:Felidae" ; Times: 1
+	Query: "peromyscus attwateri" ; Times: 1
+
+
+End of report.
