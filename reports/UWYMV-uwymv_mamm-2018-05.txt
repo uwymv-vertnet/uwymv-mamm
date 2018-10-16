@@ -1,0 +1,125 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 137
+Number of records retrieved in searches: 288
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 10
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 121
+	Country: China ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-29 ; Times: 6
+	Date: 2018-05-20 ; Times: 2
+	Date: 2018-05-21 ; Times: 8
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-23 ; Times: 2
+	Date: 2018-05-24 ; Times: 10
+	Date: 2018-05-25 ; Times: 4
+	Date: 2018-05-26 ; Times: 2
+	Date: 2018-05-27 ; Times: 2
+	Date: 2018-05-06 ; Times: 3
+	Date: 2018-05-07 ; Times: 11
+	Date: 2018-05-04 ; Times: 8
+	Date: 2018-05-05 ; Times: 2
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-03 ; Times: 3
+	Date: 2018-05-01 ; Times: 4
+	Date: 2018-05-08 ; Times: 3
+	Date: 2018-05-09 ; Times: 3
+	Date: 2018-05-31 ; Times: 4
+	Date: 2018-05-30 ; Times: 5
+	Date: 2018-05-15 ; Times: 5
+	Date: 2018-05-14 ; Times: 2
+	Date: 2018-05-17 ; Times: 7
+	Date: 2018-05-16 ; Times: 4
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-10 ; Times: 3
+	Date: 2018-05-13 ; Times: 5
+	Date: 2018-05-12 ; Times: 2
+	Date: 2018-05-19 ; Times: 11
+	Date: 2018-05-18 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "distance(location,geopoint(44.6967005426135,-94.553891684621))&lt;10643" ; Times: 2
+	Query: "mustela nivalis" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "mustela nigripes" ; Times: 72
+	Query: "distance(location,geopoint(45.9339361265001,-95.975625537))&lt;25696" ; Times: 2
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "distance(location,geopoint(46.8583064480499,-96.3498639161359))&lt;42406" ; Times: 1
+	Query: "distance(location,geopoint(46.412667731,-95.7279602395))&lt;54505" ; Times: 2
+	Query: "distance(location,geopoint(45.935151399,-95.4601457))&lt;30782" ; Times: 2
+	Query: "distance(location,geopoint(38.8259859740737,-92.504553279826))&lt;12653" ; Times: 2
+	Query: "chinchilla" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "distance(location,geopoint(44.7485570209585,-94.6443726233724))&lt;17807" ; Times: 2
+	Query: "specificepithet:leucopus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "distance(location,geopoint(38.9879603599145,-92.7108775948784))&lt;29395" ; Times: 3
+	Query: "distance(location,geopoint(45.1119865645001,-94.506924154))&lt;30886" ; Times: 2
+	Query: "specificepithet:fuscipes genus:Neotoma county:&#34;Orange&#34;" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor mappable:1" ; Times: 1
+	Query: "specificepithet:vison genus:Neovison mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:lagopus genus:alopex year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "distance(location,geopoint(44.8004086755001,-95.0160474075))&lt;38370" ; Times: 2
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 1
+	Query: "distance(location,geopoint(46.9340952330001,-95.719205936))&lt;42896" ; Times: 2
+	Query: "distance(location,geopoint(43.4025036960001,-93.3249548545))&lt;12803" ; Times: 2
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "vntype:specimen continent:NORTH AMERICA recordedby:ARMSTRONG year &gt;= 1941 month &gt;= 10 month &lt;= 11" ; Times: 2
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 2
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "distance(location,geopoint(43.6229870615001,-93.336362792))&lt;26599" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "specificepithet:auratus genus:Mesocricetus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(44.6598281631191,-94.5539032169823))&lt;7047" ; Times: 2
+	Query: "specificepithet:lervia genus:Ammotragus mappable:1" ; Times: 6
+	Query: "distance(location,geopoint(44.800413499304,-94.6725034888335))&lt;19486" ; Times: 2
+	Query: "Ammotragus lervia mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(38.905901129478,-92.5678721072175))&lt;18581" ; Times: 3
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1178 download events in this period)
+Total number of records downloaded: 776
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+
+
+End of report.
