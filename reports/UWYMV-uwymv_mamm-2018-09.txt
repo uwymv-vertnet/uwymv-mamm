@@ -1,0 +1,110 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 103
+Number of records retrieved in searches: 336
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Iceland ; Times: 3
+	Country: United States ; Times: 91
+	Country: China ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 4
+	Date: 2018-09-23 ; Times: 3
+	Date: 2018-09-02 ; Times: 2
+	Date: 2018-09-03 ; Times: 2
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-01 ; Times: 4
+	Date: 2018-09-20 ; Times: 6
+	Date: 2018-09-21 ; Times: 2
+	Date: 2018-09-22 ; Times: 2
+	Date: 2018-09-05 ; Times: 4
+	Date: 2018-09-08 ; Times: 2
+	Date: 2018-09-09 ; Times: 2
+	Date: 2018-09-28 ; Times: 2
+	Date: 2018-09-29 ; Times: 3
+	Date: 2018-09-30 ; Times: 15
+	Date: 2018-09-11 ; Times: 5
+	Date: 2018-09-10 ; Times: 3
+	Date: 2018-09-13 ; Times: 4
+	Date: 2018-09-12 ; Times: 2
+	Date: 2018-09-15 ; Times: 3
+	Date: 2018-09-14 ; Times: 4
+	Date: 2018-09-17 ; Times: 4
+	Date: 2018-09-16 ; Times: 3
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-25 ; Times: 8
+	Date: 2018-09-27 ; Times: 2
+	Date: 2018-09-06 ; Times: 2
+	Date: 2018-09-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "recordedby:corin" ; Times: 1
+	Query: "Steve Campbell" ; Times: 1
+	Query: "mustela nigripes" ; Times: 66
+	Query: "aplodontia rufa" ; Times: 2
+	Query: "specificepithet:tereticaudus genus:Xerospermophilus" ; Times: 2
+	Query: "class:Mammalia county:&#34;sheridan&#34; stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(38.33380491307935,-90.47607421875))&lt;247840.770513055" ; Times: 1
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 3
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 1
+	Query: "cavia" ; Times: 1
+	Query: "specificepithet:maculatum genus:euderma hastissue:1" ; Times: 2
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Ictidomys" ; Times: 2
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(37.08400752101114,-89.99267578125))&lt;291582.01899794535" ; Times: 1
+	Query: "specificepithet:maculatum genus:euderma" ; Times: 8
+	Query: "Antilocapra americana mappable:1" ; Times: 2
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 846 download events in this period)
+Total number of records downloaded: 278
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 5
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:putorius genus:Mustela mappable:1" ; Times: 1
+	Query: "specificepithet:maculatum genus:euderma" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "specificepithet:aries genus:Ovis mappable:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis mappable:1" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 2
+	Query: "class:mammalia county:&#34;clark&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma mappable:1" ; Times: 1
+	Query: "perognathus longimembris" ; Times: 1
+	Query: "class:Mammalia (baculum)" ; Times: 1
+	Query: "microtus" ; Times: 1
+
+
+End of report.
