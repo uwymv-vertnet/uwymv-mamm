@@ -1,0 +1,118 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 104
+Number of records retrieved in searches: 742
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 81
+	Country: Unknown ; Times: 17
+	Country: Finland ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 1
+	Country: Kuwait ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 5
+	Date: 2018-06-06 ; Times: 5
+	Date: 2018-06-05 ; Times: 5
+	Date: 2018-06-04 ; Times: 4
+	Date: 2018-06-03 ; Times: 4
+	Date: 2018-06-02 ; Times: 2
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-25 ; Times: 5
+	Date: 2018-06-24 ; Times: 2
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-21 ; Times: 5
+	Date: 2018-06-20 ; Times: 3
+	Date: 2018-06-09 ; Times: 2
+	Date: 2018-06-08 ; Times: 2
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-22 ; Times: 4
+	Date: 2018-06-10 ; Times: 2
+	Date: 2018-06-11 ; Times: 2
+	Date: 2018-06-12 ; Times: 18
+	Date: 2018-06-13 ; Times: 2
+	Date: 2018-06-14 ; Times: 2
+	Date: 2018-06-15 ; Times: 3
+	Date: 2018-06-16 ; Times: 4
+	Date: 2018-06-17 ; Times: 2
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-19 ; Times: 3
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:lepus institutioncode:UWYMV" ; Times: 1
+	Query: "distance(location,geopoint(39.2400334086807,-86.5684060061948))&lt;11509" ; Times: 1
+	Query: "genus:puma institutioncode:UWYMV" ; Times: 1
+	Query: "institutioncode:UWYMV 4583" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "distance(location,geopoint(45.1119776310102,-94.507046023876))&lt;45034" ; Times: 1
+	Query: "distance(location,geopoint(44.8282743318785,-94.2790539204441))&lt;38517" ; Times: 1
+	Query: "Puma concolor" ; Times: 4
+	Query: "Mountain Beaver" ; Times: 3
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "institutioncode:UWYMV ictidomys" ; Times: 1
+	Query: "institutioncode:UWYMV 4576" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "urocitellus elegans institutioncode:UWYMV" ; Times: 1
+	Query: "Petrified Forest" ; Times: 1
+	Query: "mustela nigripes" ; Times: 68
+	Query: "specificepithet:aberti institutioncode:UWYMV" ; Times: 1
+	Query: "institutioncode:UWYMV tamias amoenus" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "James Bishop" ; Times: 2
+	Query: "4583 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:sciurus specificepithet:carolinensis institutioncode:UWYMV" ; Times: 1
+	Query: "taxidea taxus institutioncode:UWYMV" ; Times: 1
+	Query: "genus:sciurus specificepithet:niger institutioncode:UWYMV" ; Times: 1
+	Query: "2695 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "4576 institutioncode:UWYMV" ; Times: 2
+	Query: "specificepithet:lateralis institutioncode:UWYMV" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1169 download events in this period)
+Total number of records downloaded: 445
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-13 ; Times: 2
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "moose" ; Times: 1
+	Query: "order:CHIROPTERA stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "Mountain Beaver" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Microtus" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Lynx" ; Times: 1
+
+
+End of report.
