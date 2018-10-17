@@ -1,0 +1,101 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 175
+Number of records retrieved in searches: 581
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: Lithuania ; Times: 10
+	Country: United States ; Times: 153
+	Country: China ; Times: 2
+	Country: Sri Lanka ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-01 ; Times: 4
+	Date: 2018-07-02 ; Times: 2
+	Date: 2018-07-03 ; Times: 9
+	Date: 2018-07-28 ; Times: 5
+	Date: 2018-07-29 ; Times: 4
+	Date: 2018-07-08 ; Times: 2
+	Date: 2018-07-09 ; Times: 3
+	Date: 2018-07-04 ; Times: 7
+	Date: 2018-07-05 ; Times: 3
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-21 ; Times: 6
+	Date: 2018-07-26 ; Times: 4
+	Date: 2018-07-27 ; Times: 11
+	Date: 2018-07-24 ; Times: 7
+	Date: 2018-07-25 ; Times: 9
+	Date: 2018-07-13 ; Times: 11
+	Date: 2018-07-12 ; Times: 2
+	Date: 2018-07-11 ; Times: 6
+	Date: 2018-07-10 ; Times: 4
+	Date: 2018-07-17 ; Times: 8
+	Date: 2018-07-16 ; Times: 6
+	Date: 2018-07-15 ; Times: 2
+	Date: 2018-07-14 ; Times: 4
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-30 ; Times: 4
+	Date: 2018-07-19 ; Times: 9
+	Date: 2018-07-18 ; Times: 8
+	Date: 2018-07-22 ; Times: 4
+	Date: 2018-07-23 ; Times: 6
+	Date: 2018-07-20 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "nelsoni kern" ; Times: 2
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:velox genus:Vulpes (skull OR skeleton)" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 2
+	Query: "Puma concolor" ; Times: 13
+	Query: "genus:Peromyscus institutioncode:UWYMV" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UWYMV" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "mustela nigripes" ; Times: 130
+	Query: "genus:Scalopus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex (skull OR skeleton) AND (NOT fossil) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "specificepithet:palustris stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma stateprovince:&#34;wyoming&#34;" ; Times: 2
+	Query: "specificepithet:intermedius genus:Phenacomys stateprovince:&#34;Wyoming&#34;" ; Times: 3
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "specificepithet:lepida genus:neotoma stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "nelsoni Kern" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969" ; Times: 2
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "mitkof specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 977 download events in this period)
+Total number of records downloaded: 935
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-06 ; Times: 4
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:latrans genus:Canis institutioncode:UWYMV" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "genus:Peromyscus institutioncode:UWYMV" ; Times: 1
+
+
+End of report.
