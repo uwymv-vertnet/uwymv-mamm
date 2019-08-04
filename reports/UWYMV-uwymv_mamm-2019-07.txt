@@ -1,0 +1,119 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 442
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Nepal ; Times: 7
+	Country: United States ; Times: 36
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 3
+	Date: 2019-07-08 ; Times: 7
+	Date: 2019-07-21 ; Times: 5
+	Date: 2019-07-20 ; Times: 1
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-22 ; Times: 3
+	Date: 2019-07-12 ; Times: 3
+	Date: 2019-07-16 ; Times: 2
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-02 ; Times: 4
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-06 ; Times: 6
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-31 ; Times: 3
+	Date: 2019-07-15 ; Times: 4
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:californicus genus:Lepus stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "specificepithet:eremicus genus:Peromyscus county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Lasionycteris specificepithet:noctivagans" ; Times: 1
+	Query: "genus:Ammospermophilus specificepithet:harrisii" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;New York&#34;" ; Times: 3
+	Query: "genus:Sciurus specificepithet:aberti" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UWYMV" ; Times: 2
+	Query: "specificepithet:clusius genus:Thomomys hastissue:1" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 6
+	Query: "genus:Marmota specificepithet:monax" ; Times: 1
+	Query: "genus:Podomys" ; Times: 1
+	Query: "Vulpes velox mappable:1" ; Times: 2
+	Query: "Myotis sodalis mappable:1" ; Times: 2
+	Query: "genus:Alopex" ; Times: 2
+	Query: "year &gt;= 1820 year &lt;= 1890 institutioncode:UWYMV" ; Times: 1
+	Query: "class:MAMMALIA locality:new haven" ; Times: 1
+	Query: "genus:Glaucomys specificepithet:sabrinus" ; Times: 1
+	Query: "year &lt;= 1890 institutioncode:UWYMV" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 3
+	Query: "coryell" ; Times: 1
+	Query: "Bos taurus mappable:1" ; Times: 1
+	Query: "Vulpes macrotis mappable:1" ; Times: 2
+	Query: "FAYETTEVILLE Peromyscus" ; Times: 2
+	Query: "Cavia porcellus" ; Times: 2
+	Query: "gbifdatasetid:f36b26ac-97d1-40f6-a9a0-484defff98e7" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Clearwater Peromyscus" ; Times: 2
+	Query: "Felis lynx" ; Times: 1
+	Query: "Myotis leibii mappable:1" ; Times: 1
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UWYMV" ; Times: 2
+	Query: "genus:Corynorhinus specificepithet:townsendii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 985 download events in this period)
+Total number of records downloaded: 227
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 1
+	Country: Peru ; Times: 5
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 2
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-25 ; Times: 7
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:californicus genus:Lepus stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1976 year &lt;= 1980" ; Times: 2
+	Query: "order:Rodentia hasmass:1" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Colorado&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1951 year &lt;= 1960" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1966 year &lt;= 1970" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:urocyon stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
