@@ -1,0 +1,123 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 95
+Number of records retrieved in searches: 1297
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 86
+	Country: United Kingdom ; Times: 7
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 4
+	Date: 2019-09-23 ; Times: 3
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-21 ; Times: 5
+	Date: 2019-09-12 ; Times: 8
+	Date: 2019-09-13 ; Times: 3
+	Date: 2019-09-18 ; Times: 4
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-03 ; Times: 4
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-06 ; Times: 13
+	Date: 2019-09-24 ; Times: 41
+
+List of queries that retrieved data from the resource: 
+	Query: "Dicrostonyx unalascensis" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "Microtus pennsylvanicus 1984" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 6
+	Query: "nigripes Mustela" ; Times: 5
+	Query: "order:Carnivora locality:Mexico" ; Times: 1
+	Query: "Microtus pennsylvanicus 1980" ; Times: 1
+	Query: "Microtus pennsylvanicus 1981" ; Times: 1
+	Query: "bison Bison" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 5
+	Query: "locality:dead mountains" ; Times: 2
+	Query: "Lynx canadensis" ; Times: 8
+	Query: "Peromyscus maniculatus 2000" ; Times: 2
+	Query: "Peromyscus maniculatus 1972" ; Times: 6
+	Query: "vntype:specimen genus:odocoileus stateprovince:&#34;wyoming&#34; year &gt;= 1900 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Peromyscus maniculatus 1974" ; Times: 5
+	Query: "pecari tajacu" ; Times: 1
+	Query: "Peromyscus maniculatus 1977" ; Times: 2
+	Query: "Peromyscus maniculatus 1978" ; Times: 3
+	Query: "Peromyscus maniculatus 1979" ; Times: 2
+	Query: "genus:peromyscus county:&#34;washington&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;washington&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "nivalis mustela" ; Times: 1
+	Query: "Microtus pennsylvanicus 1979" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "Microtus pennsylvanicus 1978" ; Times: 1
+	Query: "palustris warren" ; Times: 2
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "Peromyscus maniculatus 2012" ; Times: 3
+	Query: "peromyscus alaska" ; Times: 5
+	Query: "specificepithet:zibethicus genus:Ondatra stateprovince:&#34;Alaska&#34;" ; Times: 4
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "Peromyscus maniculatus 1973" ; Times: 2
+	Query: "genus:Sciurus niger stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 1981" ; Times: 4
+	Query: "Peromyscus maniculatus 1980" ; Times: 4
+	Query: "Peromyscus maniculatus 1982" ; Times: 1
+	Query: "Peromyscus maniculatus 1985" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Microtus pennsylvanicus 2012" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1073 download events in this period)
+Total number of records downloaded: 447
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-15 ; Times: 2
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-06 ; Times: 2
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ondatra stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "specificepithet:torridus genus:Onychomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34;" ; Times: 1
+	Query: "Microtus ochrogaster specificepithet:ochrogaster genus:Microtus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "order:Rodentia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "genus:Sciurus niger stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+
+
+End of report.
