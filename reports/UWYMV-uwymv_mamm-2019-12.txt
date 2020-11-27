@@ -1,0 +1,80 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 26
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 7
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-09 ; Times: 3
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-05 ; Times: 4
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "27933" ; Times: 1
+	Query: "genus:Bassariscus" ; Times: 1
+	Query: "mustela nigripes" ; Times: 2
+	Query: "Lepus townsendii stateprovince:&#34;Nebraska&#34; startdayofyear &lt;= 1970" ; Times: 1
+	Query: "vntype:specimen specificepithet:maculatum genus:Euderma" ; Times: 1
+	Query: "lepus alleni" ; Times: 1
+	Query: "NA mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "gag" ; Times: 1
+	Query: "catalognumber:795 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:697 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "vntype:specimen specificepithet:townsendii genus:lepus year &lt;= 2018 month &lt;= 12 enddayofyear &lt;= 8" ; Times: 1
+	Query: "Didelphis Virginiana stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "catalognumber:613 institutioncode:UWYMV" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 596 download events in this period)
+Total number of records downloaded: 311
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-04 ; Times: 3
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Lepus townsendii stateprovince:&#34;Nebraska&#34; startdayofyear &lt;= 1970" ; Times: 1
+	Query: "Head Tail hasmass:1 haslength:1" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.
