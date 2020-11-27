@@ -1,0 +1,106 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 121
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: United Kingdom ; Times: 3
+	Country: Sweden ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 2
+	Date: 2020-03-25 ; Times: 2
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-23 ; Times: 3
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-18 ; Times: 7
+	Date: 2020-03-20 ; Times: 3
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-04 ; Times: 2
+	Date: 2020-03-14 ; Times: 3
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-11 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "genus:Neotoma class:Mammalia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Myotis grisescens" ; Times: 2
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "(scandentia)" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "class:Mammalia institutioncode:UWYMV hasmass:1 haslength:1" ; Times: 1
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "specificepithet:nanus genus:Sorex stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "garden grove" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "specificepithet:nanus genus:Sorex" ; Times: 1
+	Query: "reithrodontomys Fulvescens county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "institutioncode:UWYMV hasmass:1 haslength:1" ; Times: 1
+	Query: "tarsiidae" ; Times: 1
+	Query: "specificepithet:talpoides genus:Thomomys stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Felis catus" ; Times: 2
+	Query: "Myotis keenii" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "vntype:specimen class:Mammalia institutioncode:UWYMV hastissue:1" ; Times: 1
+	Query: "Felis chaus" ; Times: 1
+	Query: "Myotis leibii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 853 download events in this period)
+Total number of records downloaded: 143
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Brazil ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 4
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-18 ; Times: 3
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 3
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:ursus" ; Times: 2
+	Query: "specificepithet:talpoides genus:Thomomys stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "specificepithet:flavescens genus:Perognathus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:interpres genus:Ammospermophilus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Neotoma county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "(scandentia)" ; Times: 2
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:nanus genus:Sorex stateprovince:&#34;Wyoming&#34;" ; Times: 1
+
+
+End of report.
