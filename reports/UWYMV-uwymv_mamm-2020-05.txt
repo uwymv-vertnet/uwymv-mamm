@@ -1,0 +1,86 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 249
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-27 ; Times: 3
+	Date: 2020-05-08 ; Times: 8
+	Date: 2020-05-07 ; Times: 5
+	Date: 2020-05-11 ; Times: 2
+	Date: 2020-05-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; institutioncode:UWYMV basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;Peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; AND (NOT MSB) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:mammalia county:&#34;loup&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "46562" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 8
+	Query: "2071 peromyscus" ; Times: 3
+	Query: "genus:Bison specificepithet:Bison" ; Times: 1
+	Query: "2382 peromyscus" ; Times: 1
+	Query: "Oryzomys palustris texensis stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1106 download events in this period)
+Total number of records downloaded: 1820
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 23
+	Country: Argentina ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-30 ; Times: 5
+	Date: 2020-05-23 ; Times: 4
+	Date: 2020-05-22 ; Times: 8
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-08 ; Times: 4
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 2
+	Query: "order:Rodentia stateprovince:Utah" ; Times: 2
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 2
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Peromyscus eremicus eremicus county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Gulo" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "order:Rodentia stateprovince:Nevada" ; Times: 2
+	Query: "procyon lotor" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+
+
+End of report.
