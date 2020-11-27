@@ -1,0 +1,138 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 379
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 64
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 13
+	Country: Austria ; Times: 2
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-07 ; Times: 32
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-03 ; Times: 9
+	Date: 2020-04-17 ; Times: 2
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-30 ; Times: 2
+	Date: 2020-04-21 ; Times: 20
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-08 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Sciurus aberti" ; Times: 3
+	Query: "Ovis aries" ; Times: 10
+	Query: "Cervus elaphus" ; Times: 4
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "specificepithet:nelsoni genus:ammospermophilus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UWYMV" ; Times: 1
+	Query: "AK 7693" ; Times: 1
+	Query: "recordedby:Amundsen" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "specificepithet:floridana genus:Neotoma county:&#34;Payne&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Xerospermophilus spilosoma" ; Times: 4
+	Query: "genus:desmodus specificepithet:rotundus" ; Times: 2
+	Query: "Macaca mulatta" ; Times: 12
+	Query: "Ovis dalli" ; Times: 4
+	Query: "Odocoileus hemionus" ; Times: 3
+	Query: "Bos taurus" ; Times: 3
+	Query: "Neotoma lepida" ; Times: 4
+	Query: "class:mammalia recordedby:stephenson" ; Times: 1
+	Query: "Lepus alleni" ; Times: 1
+	Query: "Felis catus" ; Times: 5
+	Query: "Cynomys ludovicianus" ; Times: 4
+	Query: "Sciurus carolinensis" ; Times: 3
+	Query: "boone genus:peromyscus" ; Times: 2
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Felis chaus" ; Times: 4
+	Query: "Erethizon dorsatum" ; Times: 3
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "Euderma maculatum basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1171 download events in this period)
+Total number of records downloaded: 708
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: India ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 32
+	Country: Argentina ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-05 ; Times: 2
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-22 ; Times: 6
+	Date: 2020-04-23 ; Times: 8
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-21 ; Times: 5
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-28 ; Times: 7
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Dipodidae" ; Times: 1
+	Query: "genus:sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Lasionycteris family:Vespertilionidae continent:North America" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "geomyidae hassex:1 hasmass:1" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Odocoileus Hemionus" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+	Query: "genus:Gulo order:Carnivora" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "vntype:specimen family:Otariidae" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "heteromyidae hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvescens genus:Reithrodontomys stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Lontra" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "sciurus" ; Times: 1
+
+
+End of report.
