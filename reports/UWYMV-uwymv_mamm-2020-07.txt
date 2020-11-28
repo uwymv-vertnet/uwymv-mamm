@@ -1,0 +1,84 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 222
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 10
+	Country: Peru ; Times: 1
+	Country: Pakistan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-25 ; Times: 2
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-17 ; Times: 3
+	Date: 2020-07-14 ; Times: 3
+	Date: 2020-07-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stat" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex" ; Times: 2
+	Query: "13459" ; Times: 1
+	Query: "genus:Oryzomys" ; Times: 2
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "Wyoming Moose" ; Times: 1
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "alces" ; Times: 1
+	Query: "family:Muridae order:Rodentia class:Mammalia stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "geomys bursarius missouri" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 940 download events in this period)
+Total number of records downloaded: 2369
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Canada ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-03 ; Times: 2
+	Date: 2020-07-28 ; Times: 3
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+
+
+End of report.
