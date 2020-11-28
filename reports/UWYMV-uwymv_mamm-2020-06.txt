@@ -1,0 +1,70 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 225
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 18
+	Country: Peru ; Times: 1
+	Country: Bolivia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 14
+	Date: 2020-06-06 ; Times: 3
+	Date: 2020-06-14 ; Times: 1
+	Date: 2020-06-04 ; Times: 6
+	Date: 2020-06-11 ; Times: 9
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-10 ; Times: 9
+	Date: 2020-06-12 ; Times: 3
+	Date: 2020-06-17 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Mustela nigripes" ; Times: 2
+	Query: "Cervus elaphus" ; Times: 6
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 16
+	Query: "genus:rattus recordedby:erickson" ; Times: 3
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 8
+	Query: "Chinchilla chinchilla" ; Times: 3
+	Query: "RT 286" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "Bos taurus" ; Times: 6
+	Query: "Euderma maculatum" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 474 download events in this period)
+Total number of records downloaded: 159
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "Peromyscus leucopus" ; Times: 2
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasiurus borealis continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
