@@ -1,0 +1,293 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 363
+Number of records retrieved in searches: 6722
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 343
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 12
+	Country: Austria ; Times: 1
+	Country: China ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 5
+	Date: 2020-11-22 ; Times: 30
+	Date: 2020-11-23 ; Times: 56
+	Date: 2020-11-24 ; Times: 12
+	Date: 2020-11-18 ; Times: 1
+	Date: 2020-11-26 ; Times: 10
+	Date: 2020-11-06 ; Times: 3
+	Date: 2020-11-07 ; Times: 4
+	Date: 2020-11-04 ; Times: 5
+	Date: 2020-11-05 ; Times: 4
+	Date: 2020-11-02 ; Times: 10
+	Date: 2020-11-03 ; Times: 1
+	Date: 2020-11-13 ; Times: 2
+	Date: 2020-11-01 ; Times: 2
+	Date: 2020-11-15 ; Times: 1
+	Date: 2020-11-10 ; Times: 206
+	Date: 2020-11-11 ; Times: 7
+	Date: 2020-11-14 ; Times: 1
+	Date: 2020-11-17 ; Times: 1
+	Date: 2020-11-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Didelphis virginiana" ; Times: 8
+	Query: "Ovis aries" ; Times: 3
+	Query: "genus:microtus recordedby:Anderson" ; Times: 1
+	Query: "scientificname:Synaptomys cooperi" ; Times: 1
+	Query: "scientificname:Sylvilagus floridanus" ; Times: 2
+	Query: "Sorex palustris" ; Times: 2
+	Query: "scientificname:Zapus hudsonius" ; Times: 1
+	Query: "scientificname:Microtus pinetorum" ; Times: 2
+	Query: "scientificname:Rattus norvegicus stateprovince:new york" ; Times: 7
+	Query: "scientificname:Phoca vitulina" ; Times: 2
+	Query: "scientificname:Synaptomys borealis" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Connecticut&#34;" ; Times: 15
+	Query: "scientificname:Didelphis virginiana stateprovince:new york" ; Times: 7
+	Query: "specificepithet:amoenus genus:tamias institutioncode:UWYMV" ; Times: 1
+	Query: "scientificname:Myotis lucifugus" ; Times: 4
+	Query: "scientificname:Lontra canadensis" ; Times: 2
+	Query: "genus:Geomys stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "scientificname:Blarina brevicauda stateprovince:new york" ; Times: 7
+	Query: "scientificname:Sorex hoyi" ; Times: 1
+	Query: "scientificname:Peromyscus pectoralis" ; Times: 1
+	Query: "specificepithet:nanus genus:sorex stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "scientificname:Glaucomys volans" ; Times: 4
+	Query: "scientificname:Lepus americanus" ; Times: 4
+	Query: "scientificname:Felis catus" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Connecticut&#34; institutioncode:UWYMV" ; Times: 1
+	Query: "scientificname:Sorex palustris" ; Times: 3
+	Query: "scientificname:Tamias striatus" ; Times: 2
+	Query: "scientificname:Mustela erminea" ; Times: 4
+	Query: "scientificname:Sciurus carolinensis" ; Times: 3
+	Query: "Mustela nigripes" ; Times: 2
+	Query: "scientificname:Lynx rufus" ; Times: 6
+	Query: "scientificname:Lynx canadensis" ; Times: 4
+	Query: "scientificname:Cryptotis parva" ; Times: 2
+	Query: "scientificname:Sciurus carolinensis stateprovince:new york" ; Times: 7
+	Query: "scientificname:Myotis sodalis" ; Times: 2
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 2
+	Query: "scientificname:Marmota monax" ; Times: 4
+	Query: "Lepus townsendii stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Marmota flaviventris" ; Times: 1
+	Query: "scientificname:Cervus elaphus" ; Times: 6
+	Query: "Urocitellus columbianus" ; Times: 2
+	Query: "scientificname:Eptesicus fuscus" ; Times: 2
+	Query: "scientificname:Lasionycteris noctivagans" ; Times: 4
+	Query: "scientificname:Vulpes vulpes" ; Times: 1
+	Query: "specificepithet:nivalis genus:mustela stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "scientificname:Microtus pennsylvanicus" ; Times: 1
+	Query: "class:mammalia stateprovince:new york" ; Times: 3
+	Query: "specificepithet:canus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "scientificname:Rattus norvegicus" ; Times: 8
+	Query: "Didelphis virginiana stateprovince:&#34;Nebraska&#34; startdayofyear &lt;= 1970" ; Times: 1
+	Query: "scientificname:Sorex cinereus" ; Times: 1
+	Query: "scientificname:Odocoileus virginianus" ; Times: 4
+	Query: "scientificname:Peromyscus maniculatus stateprovince:new york" ; Times: 7
+	Query: "scientificname:Glaucomys sabrinus" ; Times: 4
+	Query: "scientificname:Canis latrans" ; Times: 4
+	Query: "Lepus californicus stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "cynomys ludovicianus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "scientificname:Lepus europaeus" ; Times: 2
+	Query: "scientificname:Puma concolor" ; Times: 4
+	Query: "genus:Geomys stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "scientificname:Gulo gulo" ; Times: 8
+	Query: "scientificname:Martes americana" ; Times: 4
+	Query: "scientificname:Peromyscus leucopus stateprovince:new york" ; Times: 7
+	Query: "scientificname:Mus musculus" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "scientificname:Lasiurus borealis" ; Times: 2
+	Query: "scientificname:Urocyon cinereoargenteus" ; Times: 1
+	Query: "Didelphis virginiana stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "Sciurus aberti ferreus" ; Times: 2
+	Query: "scientificname:Ondatra zibethicus" ; Times: 6
+	Query: "scientificname:Sorex hoyi stateprovince:new york" ; Times: 7
+	Query: "Bos taurus" ; Times: 4
+	Query: "scientificname:Mustela frenata" ; Times: 4
+	Query: "*Urocitellus columbianus" ; Times: 2
+	Query: "scientificname:Castor Canadensis" ; Times: 8
+	Query: "catalognumber:5627" ; Times: 1
+	Query: "scientificname:Rattus rattus stateprovince:new york" ; Times: 7
+	Query: "scientificname:Myodes gapperi" ; Times: 4
+	Query: "scientificname:Odocoileus virginianus stateprovince:new york" ; Times: 7
+	Query: "specificepithet:merriami genus:sorex stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "scientificname:Myotis leibii" ; Times: 4
+	Query: "scientificname:Mustela nivalis" ; Times: 2
+	Query: "specificepithet:catus genus:Felis" ; Times: 3
+	Query: "scientificname:Rattus rattus" ; Times: 1
+	Query: "scientificname:Scalopus aquaticus" ; Times: 4
+	Query: "scientificname:Mustela nigripes" ; Times: 4
+	Query: "macaca" ; Times: 1
+	Query: "scientificname:Neovison vison" ; Times: 6
+	Query: "scientificname:Lasiurus cinereus" ; Times: 6
+	Query: "genus:Geomys stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "scientificname:Procyon lotor" ; Times: 6
+	Query: "Didelphis virginiana stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "scientificname:Tamiasciurus hudsonicus stateprovince:new york" ; Times: 7
+	Query: "scientificname:Tamiasciurus hudsonicus" ; Times: 2
+	Query: "Sciurus niger stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "scientificname:Blarina brevicauda" ; Times: 4
+	Query: "scientificname:Mephitis mephitis" ; Times: 6
+	Query: "scientificname:Lepus californicus" ; Times: 8
+	Query: "scientificname:Peromyscus difficilis" ; Times: 2
+	Query: "i. Sciurus aberti ferreus" ; Times: 1
+	Query: "scientificname:Ondatra zibethicus stateprovince:new york" ; Times: 7
+	Query: "scientificname:Bison bison" ; Times: 6
+	Query: "scientificname:Cynomys ludovicianus" ; Times: 5
+	Query: "scientificname:Ursus americanus" ; Times: 2
+	Query: "Cynomys ludovicianus stateprovince:&#34;Nebraska&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 119 (out of 842 download events in this period)
+Total number of records downloaded: 5562
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 113
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 6
+	Date: 2020-11-22 ; Times: 2
+	Date: 2020-11-23 ; Times: 17
+	Date: 2020-11-26 ; Times: 1
+	Date: 2020-11-08 ; Times: 2
+	Date: 2020-11-09 ; Times: 4
+	Date: 2020-11-06 ; Times: 10
+	Date: 2020-11-07 ; Times: 3
+	Date: 2020-11-04 ; Times: 24
+	Date: 2020-11-05 ; Times: 24
+	Date: 2020-11-03 ; Times: 8
+	Date: 2020-11-13 ; Times: 2
+	Date: 2020-11-10 ; Times: 2
+	Date: 2020-11-27 ; Times: 1
+	Date: 2020-11-15 ; Times: 3
+	Date: 2020-11-30 ; Times: 2
+	Date: 2020-11-12 ; Times: 6
+	Date: 2020-11-17 ; Times: 1
+	Date: 2020-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ammospermophilus leucurus" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Tamias amoenus" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 2
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 2
+	Query: "Ochrotomys nuttalli" ; Times: 1
+	Query: "Perognathus flavescens stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 2
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "Peromyscus boylii" ; Times: 1
+	Query: "Urocitellus undulatus" ; Times: 1
+	Query: "Microtus oeconomus" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinerea genus:Neotoma" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Tamias quadrivittatus" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 1
+	Query: "myotis sodalis" ; Times: 2
+	Query: "Dicrostonyx groenlandicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:tridecemlineatus genus:Spermophilus" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "lynx canadensis" ; Times: 1
+	Query: "Mus musculus" ; Times: 2
+	Query: "mustela erminea" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 2
+	Query: "class:mammalia massing &gt;= 300 lengthinmm &gt;= 250" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 2
+	Query: "Cynomys ludovicianus" ; Times: 2
+	Query: "eptesicus fuscus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Reithrodontomys fulvescens" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "Bison bison" ; Times: 1
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "Oryzomys palustris" ; Times: 1
+	Query: "Alces" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sciurus aberti ferreus" ; Times: 2
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "cope" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Erethizon" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Ictidomys tridecemlineatus" ; Times: 1
+	Query: "Dipodomys microps" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "cryptotis parva" ; Times: 2
+	Query: "Dipodomys ordii stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "glaucomys sabrinus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 1
+	Query: "myotis grisescens" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "myodes gapperi" ; Times: 1
+	Query: "Peromyscus crinitus" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "myotis leibii" ; Times: 1
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias institutioncode:UWYMV" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: "mustela frenata" ; Times: 1
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "Neotoma floridana" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(43.28527581657787,-75.5302745103836))&lt;191856.53137782737" ; Times: 1
+	Query: "Ammospermophilus harrisii" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 1
+
+
+End of report.
