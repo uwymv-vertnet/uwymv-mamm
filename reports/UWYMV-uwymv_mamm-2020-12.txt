@@ -1,0 +1,109 @@
+Report for Institution Code UWYMV, Resource uwymv_mamm
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 380
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: United Kingdom ; Times: 14
+	Country: Spain ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-26 ; Times: 2
+	Date: 2020-12-20 ; Times: 3
+	Date: 2020-12-30 ; Times: 5
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-04 ; Times: 6
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-09 ; Times: 12
+	Date: 2020-12-08 ; Times: 1
+	Date: 2020-12-11 ; Times: 4
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 12
+	Date: 2020-12-02 ; Times: 12
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "scientificname:Rattus norvegicus stateprovince:new york" ; Times: 2
+	Query: "Ovis dalli" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Dicrostonyx torquatus" ; Times: 1
+	Query: "Lepus townsendii stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:UWYMV" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 12
+	Query: "hawks" ; Times: 1
+	Query: "scientificname:Tamiasciurus hudsonicus stateprovince:new york" ; Times: 2
+	Query: "class:mAMMALIA county:&#34;Ocean&#34; stateprovince:&#34;New Jersey&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:UWYMV" ; Times: 1
+	Query: "locality:black rapids stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "scientificname:Sciurus carolinensis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Peromyscus leucopus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Sorex hoyi stateprovince:new york" ; Times: 3
+	Query: "Bos taurus" ; Times: 2
+	Query: "crocuta" ; Times: 1
+	Query: "scientificname:Didelphis virginiana stateprovince:new york" ; Times: 2
+	Query: "scientificname:Peromyscus maniculatus stateprovince:new york" ; Times: 2
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "scientificname:Ondatra zibethicus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Rattus rattus stateprovince:new york" ; Times: 2
+	Query: "Felis catus" ; Times: 2
+	Query: "scientificname:Blarina brevicauda stateprovince:new york" ; Times: 2
+	Query: "class:mAMMALIA county:&#34;Ocean&#34; stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "scientificname:Odocoileus virginianus stateprovince:new york" ; Times: 2
+	Query: "Ovis aries" ; Times: 1
+	Query: "Felis chaus" ; Times: 3
+	Query: "mappable:1 scientificname:Bos taurus" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "E.5616.A" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 705 download events in this period)
+Total number of records downloaded: 1869
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Denmark ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-07 ; Times: 2
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-03 ; Times: 4
+	Date: 2020-12-02 ; Times: 1
+	Date: 2020-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis velifer" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Sonora&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:UWYMV" ; Times: 1
+
+
+End of report.
